@@ -1,0 +1,42 @@
+Instruction in English:  Develop a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file. Your response must be less than 6 sentences..
+                        Response in English: Here is a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file:
+
+```c++
+#include <iostream>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    ifstream file;
+    string word;
+    int count = 0;
+
+    cout << "Enter the name of the file: ";
+    getline(cin, word);
+    file.open(word);
+
+    if (file.is_open())
+    {
+        while (!file.eof())
+        {
+            getline(file, word);
+            if (word == "word")
+            {
+                count++;
+            }
+        }
+        file.close();
+        cout << "The word " << word << " appears " << count << " times in the file." << endl;
+    }
+    else
+    {
+        cout << "Unable to open the file." << endl;
+    }
+
+    return 0;
+}
+```. 
+                        Response in Persian: در اینجا یک برنامه ++C وجود دارد که یک فایل متنی را به صورت خط به خط می خواند و تعداد تکرار یک کلمه خاص را در فایل می شمارد: ```c++ #include <iostream> #include <fstream> #include <string> using namespace std; int main() { ifstream file; string word; int count = 0; cout << "نام فایل را وارد کنید: "; getline(cin, word); file.open(word); if (file.is_open()) { while (!file.eof()) { getline(file, word); if (word == "word") { count++; } } file.close(); cout << "کلمه " << word << " " << count << " بار در فایل ظاهر می شود." << endl; } else { cout << "نمی توان فایل را باز کرد." << endl; } بازگشت 0; } ```

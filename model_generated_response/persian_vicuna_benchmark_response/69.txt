@@ -1,0 +1,12 @@
+Instruction in English:  Solve for x in the equation 3x + 10 = 5 (x - 2). Your response must be less than 6 sentences..
+                        Response in English: To solve for x in the equation 3x + 10 = 5 (x - 2), we need to isolate the variable x on one side of the equation. We can do this by subtracting 5(x - 2) from both sides of the equation.
+
+3x + 10 - 5(x - 2) = 5(x - 2) - 5(x - 2)
+3x + 10 - 5x + 10 - 10 = 5x - 10 - 10
+3x - 5x + 10 - 10 = 5x - 10 - 10
+-2x + 10 - 10 = 5x - 10 - 10
+-2x = 5x - 10 - 10 - 10
+-2x = 5x - 20
+x = 20/(-2)
+x = 10.. 
+                        Response in Persian:  برای حل x در معادله 3x + 10 = 5 (x - 2)، باید متغیر x را در یک طرف معادله جدا کنیم. ما می توانیم این کار را با کم کردن 5(x - 2) از هر دو طرف معادله انجام دهیم. 3x + 10 - 5(x - 2) = 5(x - 2) - 5(x - 2) 3x + 10 - 5x + 10 - 10 = 5x - 10 - 10 3x - 5x + 10 - 10 = 5x - 10 - 10 -2x + 10 - 10 = 5x - 10 - 10 -2x = 5x - 10 - 10 - 10 x = 5x - 20 x = 10.

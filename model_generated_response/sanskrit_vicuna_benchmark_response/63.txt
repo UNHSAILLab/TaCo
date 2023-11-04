@@ -1,0 +1,23 @@
+Instruction in English:  Implement a regular expression in Python to validate an email address..
+                        Response in English: Here is an example of a regular expression in Python that can be used to validate an email address:
+
+```python
+import re
+
+email_regex = re.compile(r"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9]+)*$")
+
+def validate_email(email):
+    if email_regex.match(email):
+        return True
+    else:
+        return False
+```
+
+This regular expression uses the `^` and `$` anchors to match the start and end of the string, respectively. The `[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]` character class matches any alphanumeric character or one of the special characters listed. The `+` quantifier indicates that the preceding character class must appear one or more times.
+
+The `@` symbol separates the local part of the email address from the domain. The `[a-zA-Z0-9-]+` character class matches any alphanumeric character or a hyphen, and the `*` quantifier indicates that the preceding character class must appear zero or more times.
+
+Finally, the `(?:\.[a-zA-Z0-9]+)*` non-capturing group matches one or more periods followed by one or more alphanumeric characters. The `*` quantifier indicates that the preceding character class must appear zero or more times.
+
+The `match()` method returns `True` if the given string matches the regular expression, and `False` otherwise.. 
+                        Response in Sanskrit: अत्र पायथन् मध्ये नियमितव्यञ्जनस्य उदाहरणम् अस्ति यस्य उपयोगेन ईमेल-सङ्केतस्य प्रमाणीकरणं कर्तुं शक्यते: ```python import re email_regex = re.compile(r"^[a-zA-Z0-9.!# $%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9]+)*$") def validate_email(email): if email_regex.match(email): return True else: return False ``` अयं नियमितव्यञ्जनः क्रमशः स्ट्रिंग् इत्यस्य आरम्भस्य अन्तस्य च मेलनं कर्तुं `^` तथा `$` एंकर् इत्यस्य उपयोगं करोति । `[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]` वर्णवर्गः सूचीकृतानां विशेषवर्णानां वा एकं वा मेलयति । `+` मापदण्डकः सूचयति यत् पूर्ववर्ती वर्णवर्गः एकवारं वा अधिकवारं वा दृश्यते । `@` चिह्नं ईमेल-सङ्केतस्य स्थानीयभागं डोमेनतः पृथक् करोति । `[a-zA-Z0-9-]+` वर्णवर्गः कस्यापि वर्णमालाक्रमिकवर्णस्य अथवा हाइफन् इत्यस्य मेलनं करोति, तथा च `*` मापदण्डकः सूचयति यत् पूर्ववर्ती वर्णवर्गः शून्यं वा अधिकवारं वा दृश्यते । अन्ते, `(?:\.[a-zA-Z0-9]+)*` अग्रभागः एकं वा अधिकं वा अवधिं अनुसृत्य एकं वा अधिकं वा वर्णमालाक्रमिकं वर्णं मेलयति । `*` मापदण्डकः सूचयति यत् पूर्ववर्ती वर्णवर्गः शून्यं वा अधिकवारं वा दृश्यते । `match()` मेथड् यदि दत्तं स्ट्रिंग् नियमितव्यञ्जनेन सह मेलति तर्हि `True` प्रेषयति, अन्यथा `False` प्रेषयति ।

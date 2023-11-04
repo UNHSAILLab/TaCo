@@ -1,0 +1,3 @@
+Instruction in English:  How many times does the average human sneeze in a lifetime? Try to explain your answer. Your response must be less than 6 sentences..
+                        Response in English: The average human sneezes between 2 and 4 times a year. This means that over the course of a lifetime, the average human will sneeze between 20,000 and 40,000 times.. 
+                        Response in Nepali:  औसत मानिसले प्रति वर्ष २ देखि ४ पटक हाच्छ्युँ गर्छ। यसको मतलब यो हो कि जीवनकालको दौडान, औसत मानिसले 20,000 र 40,000 पटक हाच्छ्युँ गर्नेछ।

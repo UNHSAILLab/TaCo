@@ -1,0 +1,13 @@
+Instruction in English:  What factors do you consider when designing an inclusive and accessible public transportation system? Your response must be less than 6 sentences..
+                        Response in English: When designing an inclusive and accessible public transportation system, it is important to consider the needs of all users, including people with disabilities, the elderly, and families with young children. Factors to consider include:
+
+1. Physical accessibility: Ensuring that all stations, vehicles, and facilities are accessible to people with disabilities, including those who use wheelchairs, walkers, or other mobility aids.
+
+2. Visual and auditory accessibility: Providing information in multiple formats, including braille, large print, and audio announcements, to make it easier for people with visual or hearing impairments to navigate the system.
+
+3. Mobility assistance: Offering assistance to passengers with disabilities, such as help boarding and disembarking vehicles, and providing priority seating for those who need it.
+
+4. User-friendly design: Making the system easy to understand and use, with clear signage, intuitive wayfinding, and user-friendly ticketing and payment systems.
+
+5. Flexibility and adaptability: Ensuring that the system can be adapted to meet the changing needs of passengers, including during emergencies or disruptions.. 
+                        Response in Persian: هنگام طراحی یک سیستم حمل و نقل عمومی فراگیر و در دسترس، مهم است که نیازهای همه کاربران، از جمله افراد دارای معلولیت، افراد مسن و خانواده هایی با کودکان خردسال را در نظر بگیرید. فاکتورهایی که باید در نظر گرفته شوند عبارتند از: 1. دسترسی فیزیکی: اطمینان از دسترسی همه ایستگاه ها، وسایل نقلیه و امکانات برای افراد دارای معلولیت، از جمله افرادی که از کایر، پیاده رو یا سایر وسایل کمک حرکتی استفاده می کنند. 2. دسترسی بصری و شنوایی: ارائه اطلاعات در قالب های متعدد، از جمله بریل، چاپ بزرگ، و اعلان های صوتی، برای آسان تر کردن حرکت در سیستم برای افراد دارای اختلالات بینایی یا شنوایی. 3. کمک به تحرک: ارائه کمک به مسافران دارای معلولیت، مانند کمک به سوار شدن و پیاده شدن از وسایل نقلیه، و ارائه صندلی اولویت برای کسانی که به آن نیاز دارند. 4. طراحی کاربرپسند: سیستم را آسان و قابل درک و استفاده، با علائم واضح، راهنمایی بصری و سیستم های بلیط و پرداخت کاربرپسند. 5. انعطاف پذیری و سازگاری: اطمینان از اینکه سیستم می تواند برای پاسخگویی به نیازهای در حال تغییر مسافران، از جمله در مواقع اضطراری یا اختلال، سازگار شود.

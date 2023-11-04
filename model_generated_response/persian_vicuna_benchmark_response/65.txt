@@ -1,0 +1,26 @@
+Instruction in English:  Implement a binary search algorithm to find a specific element in a sorted array..
+                        Response in English: Here is an implementation of a binary search algorithm in Python:
+
+```python
+def binary_search(arr, item):
+    """
+    Binary search algorithm to find an element in a sorted array.
+    :param arr: The sorted array
+    :param item: The element to be searched
+    :return: The index of the element if found, else -1
+    """
+    low = 0
+    high = len(arr) - 1
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == item:
+            return mid
+        elif arr[mid] > item:
+            high = mid - 1
+        else:
+            low = mid + 1
+    return -1
+```
+
+This algorithm works by dividing the search space in half at each step and comparing the middle element with the target element. If the middle element is equal to the target element, then the target element is found and its index is returned. If the middle element is greater than the target element, then the search space is narrowed to the lower half and the search continues. If the middle element is less than the target element, then the search space is narrowed to the upper half and the search continues. This process continues until the target element is found or the search space is exhausted.. 
+                        Response in Persian: در اینجا پیاده سازی یک الگوریتم جستجوی دودویی در پایتون آمده است: ```python def binary_search(arr, item): """ الگوریتم جستجوی دودویی برای یافتن یک عنصر در یک آرایه مرتب شده. :param arr: آرایه مرتب شده :param item: عنصری که باید جستجو شود :return: شاخص عنصر در صورت یافتن، در غیر این صورت -1 """ low = 0 high = len(arr) - 1 while low <= high: mid = (low + high) // 2 if arr[mid] == item: return mid elif arr[mid] > item: high = mid - 1 else: low = mid + 1 return -1 ``` این الگوریتم با تقسیم فضای جستجو به نصف در هر مرحله و مقایسه عنصر میانی با عنصر هدف کار می کند. اگر عنصر میانی با عنصر هدف برابر باشد، عنصر هدف پیدا می شود و شاخص آن برگردانده می شود. اگر عنصر میانی بزرگتر از عنصر هدف باشد، فضای جستجو به نیمه پایین محدود می شود و جستجو ادامه می یابد. اگر عنصر میانی کوچکتر از عنصر هدف باشد، فضای جستجو به نیمه بالایی محدود می شود و جستجو ادامه می یابد. این فرآیند تا زمانی ادامه می یابد که عنصر هدف پیدا شود یا فضای جستجو تمام شود.

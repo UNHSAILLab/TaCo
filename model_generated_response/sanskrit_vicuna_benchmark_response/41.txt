@@ -1,0 +1,3 @@
+Instruction in English:  How many times does an average human blink in a lifetime? Try to explain your answer. Your explanation should walk the reader through your reasoning step by step. Your response must be less than 6 sentences..
+                        Response in English: An average human blinks about 17,500 times a day, which adds up to about 6.25 million times a year. Over the course of a lifetime, an average human would blink about 2.5 billion times.. 
+                        Response in Sanskrit:  साधारणः मानवः प्रतिदिनं प्रायः १७,५०० वारं निमिषं करोति, यत् प्रतिवर्षं प्रायः ६२५ लक्षं वारं यावत् भवति । जीवनपर्यन्तं साधारणः मानवः प्रायः २५ कोटिवारं निमिषं करोति स्म ।

@@ -1,0 +1,20 @@
+Instruction in English:  Solve for x in the equation 3x + 10 = 5(x - 2). Your response must be less than 6 sentences..
+                        Response in English: To solve for x in the equation 3x + 10 = 5(x - 2), we need to isolate x on one side of the equation.
+
+First, we can subtract 10 from both sides of the equation to get rid of the constant term on the left side. This gives us:
+
+3x + 10 - 10 = 5(x - 2) - 10
+3x = 5(x - 2) - 10
+
+Next, we can divide both sides of the equation by 5 to get rid of the coefficient of x. This gives us:
+
+(3x)/5 = (5(x - 2))/5 - 10/5
+x = (5(x - 2))/5 - 10/5
+
+Finally, we can simplify the right side of the equation by combining like terms. This gives us:
+
+x = (5x - 10) / 5 - 10/5
+x = (5x - 10) / 5 - 2
+
+So, the solution for x in the equation 3x + 10 = 5(x - 2) is x = (5x - 10) / 5 - 2.. 
+                        Response in Maithili: समीकरण 3x + 10 = 5(x - 2) में x के लिये हल करने के लिये समीकरण के एक तरफ x को अलग करने की आवश्यकता है | पहिने हम समीकरण के दोनों तरफ स 10 घटा क बामा कात के स्थिर पद स मुक्ति भेट सकैत छी। एहि सँ हमरा सभ केँ भेटैत अछि : 3x + 10 - 10 = 5(x - 2) - 10 3x = 5(x - 2) - 10 अगिला, हम समीकरण के दुनू पक्ष केँ 5 सँ विभाजित कए x के गुणांक सँ मुक्त भ' सकैत छी | एहि सँ हमरा सभकेँ भेटैत अछि : (3x)/5 = (5(x - 2))/5 - 10/5 x = (5(x - 2))/5 - 10/5 अंत मे, हम समीकरणक दुनू पक्षकेँ जोड़ि कए समीकरणक दाहिना कातकेँ सरल बना सकैत छी जेना पद । एहि सँ हमरा सभकेँ भेटैत अछि : x = (5x - 10) / 5 - 10/5 x = (5x - 10) / 5 - 2 अतः, समीकरण 3x + 10 = 5(x - 2) मे x के लिये समाधान x = (5x - 10) / 5 - 2 है |

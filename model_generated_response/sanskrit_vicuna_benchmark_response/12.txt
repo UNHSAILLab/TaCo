@@ -1,0 +1,13 @@
+Instruction in English:  When designing an inclusive and accessible public transportation system, what factors would you consider? Your response must be less than 6 sentences..
+                        Response in English: When designing an inclusive and accessible public transportation system, I would consider the following factors:
+
+1. Physical accessibility: The system should be designed to accommodate people with different physical abilities, including wheelchair users, people with visual or hearing impairments, and people with limited mobility.
+
+2. Mental health and cognitive accessibility: The system should be designed to accommodate people with different mental health needs and cognitive abilities, including people with autism, dementia, and other cognitive disabilities.
+
+3. Cultural and language accessibility: The system should be designed to accommodate people from diverse cultural and linguistic backgrounds, including people who speak different languages and people with limited English proficiency.
+
+4. Economic accessibility: The system should be designed to be affordable for people of all income levels, including people who rely on public transportation as their primary means of transportation.
+
+5. Safety and security: The system should be designed to ensure the safety and security of all users, including people who may be more vulnerable to harassment or assault.. 
+                        Response in Sanskrit: समावेशी सुलभं च सार्वजनिकयानव्यवस्थां परिकल्पयन् अहं निम्नलिखितकारकाणां विचारं करिष्यामि : 1. शारीरिकसुलभता : व्यवस्था भिन्नशारीरिकक्षमतायुक्तानां जनानां समायोजनाय विनिर्मिता भवितुमर्हति, यत्र चक्रचालकानाम् उपयोगिनः, दृष्टि-श्रवण-क्षतिग्रस्ताः, सीमितगतिशीलतायुक्ताः च जनाः सन्ति 2. मानसिकस्वास्थ्यं संज्ञानात्मकसुलभता च : व्यवस्था भिन्नमानसिकस्वास्थ्यस्य आवश्यकतानां संज्ञानात्मकक्षमतानां च जनानां समायोजनाय विनिर्मिता भवितुमर्हति, यत्र आत्मकेन्द्रितता, विक्षिप्तता, अन्यसंज्ञानात्मकविकलाङ्गता च इत्यादयः जनाः सन्ति। 3. सांस्कृतिकभाषासुलभता : व्यवस्था विविधसांस्कृतिकभाषापृष्ठभूमितः जनानां समायोजनाय विनिर्मिता भवेत्, यत्र भिन्नभाषाभाषिणः जनाः, सीमितरूपेण आङ्ग्लभाषायाः प्रवीणाः जनाः च सन्ति। 4. आर्थिकसुलभता : व्यवस्था सर्वेषां आयस्तरस्य जनानां कृते किफायती भवितुं विनिर्मिता भवेत्, यत्र ये जनाः सार्वजनिकयानस्य उपयोगं स्वस्य प्राथमिकयानसाधनरूपेण कुर्वन्ति। 5. सुरक्षा सुरक्षा च : सर्वेषां उपयोक्तृणां सुरक्षां सुरक्षां च सुनिश्चित्य व्यवस्था विनिर्मिता भवेत्, यत्र ये जनाः उत्पीडनस्य आक्रमणस्य वा अधिकं दुर्बलाः भवितुम् अर्हन्ति।

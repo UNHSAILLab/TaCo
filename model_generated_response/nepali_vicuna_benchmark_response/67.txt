@@ -1,0 +1,22 @@
+Instruction in English:  Implement a program to find the common elements in two arrays without using any additional data structures..
+                        Response in English: Here is a Python program that finds the common elements in two arrays without using any additional data structures:
+
+```python
+def find_common_elements(arr1, arr2):
+    common_elements = []
+    for i in range(len(arr1)):
+        if arr1[i] in arr2:
+            common_elements.append(arr1[i])
+    return common_elements
+
+arr1 = [1, 2, 3, 4, 5]
+arr2 = [2, 4, 6, 8, 10]
+
+common_elements = find_common_elements(arr1, arr2)
+print(common_elements)
+```
+
+In this program, we define a function `find_common_elements` that takes two arrays as arguments. The function iterates over the elements of the first array and checks if each element is present in the second array. If the element is present, it is added to the `common_elements` list. Once the iteration is complete, the function returns the `common_elements` list.
+
+Finally, we call the `find_common_elements` function with the two arrays `arr1` and `arr2` as arguments. The function returns the list of common elements, which is then printed to the console.. 
+                        Response in Nepali: यहाँ एउटा पाइथन प्रोग्राम छ जसले कुनै पनि अतिरिक्त डेटा संरचनाहरू प्रयोग नगरी दुई एरेहरूमा साझा तत्वहरू फेला पार्छ: ```पाइथन def find_common_elements(arr1, arr2): common_elements = [] i in range(len(arr1)): if arr1[i] in arr2: common_elements.append(arr1[i]) रिटर्न common_elements arr1 = [1, 2, 3, 4, 5] arr2 = [2, 4, 6, 8, 10] common_elements = find_common_elements(arr1, arr2) print(common_elements) ``` यस कार्यक्रममा, हामी एउटा प्रकार्य `find_common_elements` परिभाषित गर्छौं जसले दुई एरेहरूलाई तर्कको रूपमा लिन्छ। प्रकार्यले पहिलो एरेका तत्वहरूमा दोहोर्याउँछ र प्रत्येक तत्व दोस्रो एरेमा अवस्थित छ कि छैन भनेर जाँच गर्छ। यदि तत्व अवस्थित छ भने, यो `common_elements` सूचीमा थपिन्छ। एक पटक पुनरावृत्ति पूरा भएपछि, प्रकार्यले `common_elements` सूची फर्काउँछ। अन्तमा, हामी दुई एरेहरू `arr1` र `arr2` लाई तर्कको रूपमा `find_common_elements` प्रकार्यलाई कल गर्छौं। प्रकार्यले सामान्य तत्वहरूको सूची फर्काउँछ, जुन त्यसपछि कन्सोलमा छापिन्छ।

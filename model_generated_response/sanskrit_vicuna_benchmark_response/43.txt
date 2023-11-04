@@ -1,0 +1,3 @@
+Instruction in English:  How many lightning strikes occur on Earth each day? Try to explain your answer. Your explanation should walk the reader through your reasoning step by step..
+                        Response in English: On average, there are about 100 lightning strikes per second around the world, which equates to about 8.6 million lightning strikes per day.. 
+                        Response in Sanskrit:  समासे विश्वे प्रति सेकण्ड् प्रायः १०० विद्युत्प्रहाराः भवन्ति, यत् प्रतिदिनं प्रायः ८६ लक्षं विद्युत्प्रहाराः इत्यस्य बराबरम् अस्ति ।

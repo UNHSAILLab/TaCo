@@ -1,0 +1,10 @@
+Instruction in English:  Given f(x) = 5x^3 - 2x + 3, find the value of f(2)..
+                        Response in English: To find the value of f(2), we can substitute 2 for x in the function f(x) = 5x^3 - 2x + 3. This gives us:
+
+f(2) = 5(2)^3 - 2(2) + 3
+     = 5(8) - 4 + 3
+     = 40 - 4 + 3
+     = 39
+
+Therefore, the value of f(2) is 39.. 
+                        Response in Nepali:  f(2) को मान पत्ता लगाउन, हामी प्रकार्य f(x) = 5x^3 - 2x + 3 मा x को लागि 2 प्रतिस्थापन गर्न सक्छौं। यसले हामीलाई दिन्छ: f(2) = 5(2)^3 - 2(2) + 3 = 5(8) - 4 + 3 = 40 - 4 + 3 = 39 त्यसैले, f(2) को मान 39 हो।

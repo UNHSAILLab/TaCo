@@ -1,0 +1,13 @@
+Instruction in English:  What factors do you consider when designing an inclusive and accessible public transportation system? Your response must be less than 6 sentences..
+                        Response in English: When designing an inclusive and accessible public transportation system, factors to consider include:
+
+1. Physical accessibility: The system should be designed to accommodate people with physical disabilities, such as wheelchair users, people with visual or hearing impairments, and people with limited mobility.
+
+2. Mental and cognitive accessibility: The system should be easy to understand and use for people with cognitive disabilities, such as autism or dementia.
+
+3. Cultural and linguistic accessibility: The system should be designed to accommodate people from diverse cultural and linguistic backgrounds.
+
+4. Economic accessibility: The system should be affordable and accessible to people from all socioeconomic backgrounds.
+
+5. Environmental accessibility: The system should be designed to minimize its impact on the environment and reduce its carbon footprint.. 
+                        Response in Nepali: समावेशी र पहुँचयोग्य सार्वजनिक यातायात प्रणाली डिजाइन गर्दा, विचार गर्नुपर्ने कारकहरू समावेश छन्: 1. शारीरिक पहुँचयोग्यता: यो प्रणाली शारीरिक असक्षमता भएका व्यक्तिहरूलाई समायोजन गर्न डिजाइन गरिएको हुनुपर्छ, जस्तै व्यायामस्तर प्रयोगकर्ताहरू, दृष्टि वा श्रवण कमजोरी भएका व्यक्तिहरू, र सीमित गतिशीलता भएका व्यक्तिहरू। 2. मानसिक र संज्ञानात्मक पहुँचयोग्यता: मानसिक असक्षमता भएका व्यक्तिहरूका लागि प्रणाली बुझ्न र प्रयोग गर्न सजिलो हुनुपर्छ, जस्तै अटिजम वा डिमेन्सिया। 3. सांस्कृतिक र भाषिक पहुँचयोग्यता: प्रणालीलाई विभिन्न सांस्कृतिक र भाषिक पृष्ठभूमिका मानिसहरूलाई समायोजन गर्न डिजाइन गरिएको हुनुपर्छ। 4. आर्थिक पहुँचयोग्यता: प्रणाली सबै सामाजिक आर्थिक पृष्ठभूमिका मानिसहरूका लागि किफायती र पहुँचयोग्य हुनुपर्छ। 5. वातावरणीय पहुँचयोग्यता: प्रणालीलाई वातावरणमा यसको प्रभावलाई कम गर्न र यसको कार्बन फुटप्रिन्ट कम गर्न डिजाइन गरिएको हुनुपर्छ।

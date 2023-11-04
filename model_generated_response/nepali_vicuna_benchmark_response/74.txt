@@ -1,0 +1,10 @@
+Instruction in English:  Write a product launch announcement email to inform our customers about our new software solution. Your response must be less than 6 sentences..
+                        Response in English: Dear valued customers,
+
+We are excited to announce the launch of our new software solution that will revolutionize the way you do business. With cutting-edge features and a user-friendly interface, our software is designed to streamline your processes, increase productivity, and improve overall efficiency. We invite you to try it out and experience the difference for yourself.
+
+Thank you for your continued support, and we look forward to hearing from you.
+
+Best regards,
+[Your Company]. 
+                        Response in Nepali: प्रिय मूल्यवान ग्राहकहरू, हामी हाम्रो नयाँ सफ्टवेयर समाधानको सुरुवातको घोषणा गर्न उत्साहित छौं जसले तपाईंले व्यवसाय गर्ने तरिकामा क्रान्ति ल्याउनेछ। अत्याधुनिक सुविधाहरू र प्रयोगकर्ता-अनुकूल इन्टरफेसको साथ, हाम्रो सफ्टवेयर तपाईंको प्रक्रियाहरूलाई सुव्यवस्थित गर्न, उत्पादकता बढाउन र समग्र दक्षता सुधार गर्न डिजाइन गरिएको हो। हामी तपाईंलाई यसलाई प्रयोग गर्न आमन्त्रित गर्दछौं र आफ्नो लागि फरक अनुभव गर्न आमन्त्रित गर्दछौं। तपाईंको निरन्तर समर्थनको लागि धन्यवाद, र हामी तपाईंबाट सुन्नको लागि तत्पर छौं। हार्दिक श्रद्धाञ्जली, [तपाईंको कम्पनी]

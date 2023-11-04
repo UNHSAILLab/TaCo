@@ -1,0 +1,29 @@
+Instruction in English:  Implement a program to find the common elements between two arrays without using additional data structures..
+                        Response in English: Here is a Python program that finds the common elements between two arrays without using additional data structures:
+
+```python
+def find_common_elements(arr1, arr2):
+    """
+    This function finds the common elements between two arrays.
+    :param arr1: First array
+    :param arr2: Second array
+    :return: List of common elements
+    """
+    common_elements = []
+    for element in arr1:
+        if element in arr2:
+            common_elements.append(element)
+    return common_elements
+
+# Example
+arr1 = [1, 2, 3, 4, 5]
+arr2 = [3, 4, 5, 6, 7]
+common_elements = find_common_elements(arr1, arr2)
+print(common_elements)
+```
+
+Output:
+```
+[3, 4, 5]
+```. 
+                        Response in Sanskrit: अत्र एकः पायथन् प्रोग्रामः अस्ति यः अतिरिक्तदत्तांशसंरचनानां उपयोगं विना द्वयोः सरणीयोः सामान्यतत्त्वान् अन्वेष्टुं शक्नोति: ```python def find_common_elements(arr1, arr2): """ एतत् फंक्शन् द्वयोः सरणीयोः मध्ये सामान्यतत्त्वान् अन्वेषयति । :param arr1: प्रथमः सरणी :param arr2: द्वितीयः सरणी :return: सामान्यतत्त्वानां सूचीं : return common_elements # उदाहरण arr1 = [1, 2, 3, 4, 5] arr2 = [3, 4, 5, 6, 7] common_elements = find_common_elements(arr1, arr2) print(common_elements) ``` आउटपुट: ``` [3, 4, 5] ```

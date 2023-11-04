@@ -1,0 +1,15 @@
+Instruction in English:  Write a convincing product launch email to inform your customers about your new software solution.
+Your response must be less than 6 sentences..
+                        Response in English: Dear valued customers,
+
+We are thrilled to announce the launch of our new software solution, designed to revolutionize the way you do business. With cutting-edge technology and user-friendly features, our software will streamline your processes, increase productivity, and improve overall efficiency.
+
+Our team has worked tirelessly to create a solution that meets your needs and exceeds your expectations. We are confident that you will find our software to be an invaluable asset to your business.
+
+We invite you to try our new software and experience the difference for yourself. We look forward to hearing your feedback and working with you to achieve even greater success.
+
+Thank you for your continued support and trust in our company.
+
+Best regards,
+[Your Company Name]. 
+                        Response in Persian: مشتریان گرامی، خوشحالیم که راه اندازی راه حل نرم افزاری جدید خود را اعلام می کنیم که برای متحول کردن روش کسب و کار شما طراحی شده است. با فناوری پیشرفته و ویژگی‌های کاربرپسند، نرم‌افزار ما فرآیندهای شما را ساده‌تر می‌کند، بهره‌وری را افزایش می‌دهد و کارایی کلی را بهبود می‌بخشد. تیم ما به طور خستگی ناپذیری برای ایجاد راه حلی کار کرده است که نیازهای شما را برآورده کند و انتظارات شما را فراتر کند. ما مطمئن هستیم که نرم افزار جدید ما برای کسب و کار شما دارایی ارزشمندی خواهد بود. ما از شما دعوت می کنیم نرم افزار جدید ما را امتحان کنید و تفاوت را برای خود تجربه کنید. ما مشتاقانه منتظر بازخورد شما هستیم و با شما برای دستیابی به موفقیت بیشتر همکاری خواهیم کرد. از حمایت و اعتماد شما به شرکت ما سپاسگزاریم. با احترام، [نام شرکت شما]

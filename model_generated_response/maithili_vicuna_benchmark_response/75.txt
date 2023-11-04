@@ -1,0 +1,12 @@
+Instruction in English:  Draft an apology email to a customer who has experienced a delay in their order, and assure them that the issue has been resolved..
+                        Response in English: Dear valued customer,
+
+We would like to sincerely apologize for the delay in the delivery of your order. We understand that this may have caused inconvenience and we deeply regret the situation.
+
+Please be assured that the issue has been resolved and your order is on its way to you. We have taken the necessary steps to ensure that this does not happen again in the future.
+
+Once again, we apologize for any inconvenience this may have caused and thank you for your patience and understanding.
+
+Best regards,
+[Your Company Name]. 
+                        Response in Maithili: प्रिय मूल्यवान ग्राहक, हम अहाँक ऑर्डर के डिलीवरी में देरी के लेल ईमानदारी स माफी मांगय चाहब। हम सब बुझैत छी जे एहि स अहां कए असुविधा भ सकैत अछि आ हम सब स्थिति कए गहींर अफसोस करैत छी। कृपया आश्वासन करी जे एहि मुद्दा के समाधान भ गेल अछि आओर अहां के ऑर्डर अहां सभ के रास्ता मे अछि. भविष्य मे एहि बात के फेर सं नहि होबय के सुनिश्चित करय लेल हम सभ आवश्यक कदम उठेलहुं अछि. एक बेर फेर एहि स जे कोनो तरहक असुविधा भेल होयत ताहि लेल माफी चाहैत छी आ धैर्य आ समझदारी लेल धन्यवाद। सादर प्रणाम, [अपन कंपनी के नाम]।

@@ -1,0 +1,23 @@
+Instruction in English:  Implement a program to find the common elements in two arrays without using any additional data structure..
+                        Response in English: Here is a Python program that finds the common elements in two arrays without using any additional data structure:
+
+```python
+def find_common_elements(arr1, arr2):
+    result = []
+    for i in range(len(arr1)):
+        for j in range(len(arr2)):
+            if arr1[i] == arr2[j]:
+                result.append(arr1[i])
+    return result
+
+arr1 = [1, 2, 3, 4, 5]
+arr2 = [3, 4, 5, 6, 7]
+
+common_elements = find_common_elements(arr1, arr2)
+print(common_elements)
+```
+
+This program uses two nested for loops to iterate through the elements of both arrays. For each element in the first array, it checks if the same element exists in the second array. If it does, the element is added to the `result` list. Finally, the `result` list is returned as the output.
+
+In this example, the program returns `[3, 4, 5]` as the common elements in the two arrays.. 
+                        Response in Maithili: यहाँ एक पायथन प्रोग्राम छै जे कोनों अतिरिक्त डाटा संरचना कें उपयोग करय कें बिना दू सरणी मे आम तत्वक कें खोजय छै: ```python def find_common_elements(arr1, arr2): result = [] for i in range(len(arr1)): for j in range(len(arr2)): if arr1[i] == arr2[j]: result.append(arr1[i]) return result arr1 = [1, 2, 3, 4, 5] arr2 = [3, 4, 5, 6, 7] common_elements = find_common_elements(arr1, arr2) print(common_elements) ``` इ प्रोग्राम दूनू सरणी कें तत्वक कें माध्यम सं पुनरावृत्ति करय कें लेल दू नेस्टेड फॉर लूप कें उपयोग करय छै. पहिल सरणी मे प्रत्येक तत्व के लेल, ई जांच करैत अछि जे दोसर सरणी मे ओही तत्व मौजूद अछि की नहि. जँ अछि तँ तत्व केँ `result` सूची मे जोड़ल जाइत अछि. अंत मे, `result` सूची आउटपुट के रूप मे वापस कएल जाइत अछि. इस उदाहरण म ं॑ प्रोग्राम `[3, 4, 5]` क॑ दू सरणी म ं॑ आम तत्व के रूप म ं॑ वापस करै छै.

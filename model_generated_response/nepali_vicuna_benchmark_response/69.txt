@@ -1,0 +1,11 @@
+Instruction in English:  Solve for x in the equation 3x + 10 = 5(x - 2). Your response must be less than 6 sentences..
+                        Response in English: To solve for x in the equation 3x + 10 = 5(x - 2), we need to isolate x on one side of the equation. We can do this by subtracting 5(x - 2) from both sides of the equation.
+
+3x + 10 - 5(x - 2) = 5(x - 2) - 5(x - 2)
+3x + 10 - 5x + 10 = 0
+3x - 5x + 10 = 0
+-2x + 10 = 0
+-2x = -10
+x = 10/2
+x = 5. 
+                        Response in Nepali:  समीकरण 3x + 10 = 5(x - 2) मा x को लागि समाधान गर्न, हामीले समीकरणको एक छेउमा x लाई अलग गर्नु पर्छ। हामी यो गर्न सक्छौं समीकरणको दुवै पक्षबाट 5(x - 2) घटाएर। 3x + 10 - 5(x - 2) = 5(x - 2) - 5(x - 2) 3x + 10 - 5x + 10 = 0 3x - 5x + 10 = 0 -2x + 10 = 0 -2x = -10 x = 10/2 x = 5

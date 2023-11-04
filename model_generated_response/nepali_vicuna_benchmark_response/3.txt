@@ -1,0 +1,9 @@
+Instruction in English:  What are the main differences between the Python and JavaScript programming languages? Your response must be less than 6 sentences..
+                        Response in English: Python and JavaScript are both high-level, interpreted programming languages, but there are several key differences between them.
+
+1. Python is a general-purpose programming language, while JavaScript is a scripting language primarily used for front-end web development.
+2. Python is an object-oriented language, while JavaScript is a prototype-based language.
+3. Python is a statically typed language, while JavaScript is a dynamically typed language.
+4. Python code is executed line by line, while JavaScript code is executed as a whole.
+5. Python is used for a wide range of applications, including web development, data analysis, machine learning, and scientific computing, while JavaScript is primarily used for front-end web development.. 
+                        Response in Nepali: पाइथन र जाभास्क्रिप्ट दुवै उच्च-स्तर, व्याख्या गरिएका प्रोग्रामिङ भाषाहरू हुन्, तर तिनीहरू बीच धेरै मुख्य भिन्नताहरू छन्। 1. पाइथन एक सामान्य-उद्देश्य प्रोग्रामिङ भाषा हो, जबकि जाभास्क्रिप्ट मुख्य रूपमा फ्रन्ट-एन्ड वेब विकासको लागि प्रयोग गरिने स्क्रिप्टिङ भाषा हो। 2. पाइथन एक वस्तु-उन्मुख भाषा हो, जबकि जाभास्क्रिप्ट एक प्रोटोटाइप-आधारित भाषा हो। 3. पाइथन एक स्थिर रूपमा टाइप गरिएको भाषा हो, जबकि जाभास्क्रिप्ट एक गतिशील रूपमा टाइप गरिएको भाषा हो। 4. पाइथन कोड लाइन द्वारा कार्यान्वयन गरिन्छ, जबकि जाभास्क्रिप्ट कोड सम्पूर्ण रूपमा कार्यान्वयन गरिन्छ। 5. पाइथन वेब विकास, डेटा विश्लेषण, मेसिन लर्निङ, र वैज्ञानिक कम्प्युटिङ सहित अनुप्रयोगहरूको विस्तृत दायराको लागि प्रयोग गरिन्छ, जबकि जाभास्क्रिप्ट मुख्य रूपमा फ्रन्ट-एन्ड वेब विकासको लागि प्रयोग गरिन्छ।

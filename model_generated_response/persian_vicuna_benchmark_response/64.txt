@@ -1,0 +1,19 @@
+Instruction in English:  Write a program to find the nth Fibonacci number using recursion..
+                        Response in English: Here is a Python program that uses recursion to find the nth Fibonacci number:
+
+```python
+def fibonacci(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+n = int(input("Enter the nth Fibonacci number: "))
+result = fibonacci(n)
+print(f"The nth Fibonacci number is: {result}")
+```
+
+This program prompts the user to enter the value of `n` and then uses recursion to calculate the nth Fibonacci number. The base case is when `n` is equal to 0 or 1, in which case the function returns 0 or 1 respectively. For all other values of `n`, the function recursively calls itself with `n-1` and `n-2` to calculate the previous two Fibonacci numbers and then returns their sum.. 
+                        Response in Persian: در اینجا یک برنامه پایتون وجود دارد که از بازگشت برای یافتن n عدد فیبوناچی استفاده می کند: ```python def fibonacci(n): if n == 0: return 0 elif n == 1: return 1 else: return fibonacci(n-1) + fibonacci(n-2) n = int(input("عدد فیبوناچی n را وارد کنید: ")) result = fibonacci(n) print(f"عدد فیبوناچی n عبارتند از: {نتیجه}") ``` این برنامه از کاربر می خواهد که مقدار 'n' را وارد کند و سپس از بازگشت برای محاسبه n عدد فیبوناچی استفاده می کند. حالت پایه زمانی است که 'n' برابر با 0 یا 1 باشد، در این صورت عملکرد به ترتیب 0 یا 1 را برمی گرداند. برای همه مقادیر دیگر «n»، عملکرد به صورت بازگشتی خود را با «n-1» و «n-2» برای محاسبه دو عدد فیبوناچی قبلی فراخوانی می‌کند و سپس مجموع آنها را برمی‌گرداند.

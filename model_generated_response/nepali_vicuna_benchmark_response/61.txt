@@ -1,0 +1,27 @@
+Instruction in English:  Develop a C++ program that reads a text file line by line and counts the number of occurrences of a specified word in the file. Your response must be less than 6 sentences..
+                        Response in English: Here is a C++ program that reads a text file line by line and counts the number of occurrences of a specified word in the file:
+
+```c++
+#include <iostream>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+int main() {
+    ifstream file("file.txt");
+    string word;
+    int count = 0;
+
+    while (file >> word) {
+        if (word == "word") {
+            count++;
+        }
+    }
+
+    cout << "The number of occurrences of the word \"" << word << "\" is " << count << endl;
+
+    return 0;
+}
+```. 
+                        Response in Nepali: यहाँ एउटा C++ प्रोग्राम छ जसले पाठ फाइललाई लाइनद्वारा पढ्छ र फाइलमा निर्दिष्ट शब्दको घटनाहरूको संख्या गणना गर्दछ: ```c++ #include <iostream> #include <fstream> #include <string> namespace std प्रयोग गरेर; int main() { ifstream file("file.txt"); string word; int count = 0; जबकि (file >> word) { यदि (शब्द == "word") { गणना++; } } cout << "शब्द \"" << word << "\" को घटनाहरूको संख्या " << गणना << endl; फिर्ता गर्नुहोस्; } ``` ०

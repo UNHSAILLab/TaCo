@@ -1,0 +1,13 @@
+Instruction in English:  What are the major challenges that the education sector is facing today? Your response must be less than 6 sentences..
+                        Response in English: The education sector is facing several challenges today, including:
+
+1. Accessibility: Many students, particularly in developing countries, do not have access to quality education due to financial, geographical, or cultural barriers.
+
+2. Funding: Governments around the world are struggling to provide adequate funding for education, leading to a lack of resources for schools, teachers, and students.
+
+3. Technology: The rapid advancement of technology is changing the way education is delivered, but many schools and teachers are struggling to keep up, leading to a digital divide between students with access to technology and those without.
+
+4. Curriculum: The curriculum is often outdated and does not adequately prepare students for the job market, leading to a skills gap between what employers need and what graduates have to offer.
+
+5. Equity: There is a lack of equity in education, with some students, particularly those from disadvantaged backgrounds, not receiving the same opportunities and support as their peers.. 
+                        Response in Persian: بخش آموزش و پرورش امروزه با چندین چالش مواجه است، از جمله: 1. دسترسی: بسیاری از دانش آموزان، به ویژه در کشورهای در حال توسعه، به دلیل موانع مالی، جغرافیایی یا فرهنگی به آموزش با کیفیت دسترسی ندارند. 2. بودجه: دولت ها در سراسر جهان برای تامین بودجه کافی برای آموزش و پرورش با مشکل مواجه هستند که منجر به کمبود منابع برای مدارس، معلمان و دانش آموزان می شود. 3. فناوری: پیشرفت سریع فناوری شیوه ارائه آموزش را تغییر می دهد، اما بسیاری از مدارس و معلمان برای همگام شدن با آن تلاش می کنند که منجر به شکاف دیجیتالی بین دانش آموزان دارای دسترسی به فناوری و دانش آموزان بدون دسترسی می شود. 4. برنامه درسی: برنامه درسی اغلب قدیمی است و دانش آموزان را به اندازه کافی برای بازار کار آماده نمی کند که منجر به شکاف مهارت بین آنچه کارفرمایان نیاز دارند و آنچه فارغ التحصیلان می توانند ارائه دهند. 5. برابری: فاقد برابری در آموزش وجود دارد، به طوری که برخی از دانش آموزان، به ویژه آنهایی که از زمینه های محروم هستند، فرصت ها و پشتیبانی های یکسانی را با همسالان خود دریافت نمی کنند.

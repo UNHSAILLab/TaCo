@@ -1,0 +1,27 @@
+Instruction in English:  Implement a Python function to find the longest common subsequence of two input strings using dynamic programming..
+                        Response in English: Here is a Python function that uses dynamic programming to find the longest common subsequence of two input strings:
+
+```python
+def longest_common_subsequence(s1, s2):
+    """
+    This function uses dynamic programming to find the longest common subsequence of two input strings.
+    :param s1: The first input string
+    :param s2: The second input string
+    :return: The length of the longest common subsequence
+    """
+    n = len(s1)
+    m = len(s2)
+    dp = [[0] * (n + 1) for i in range(n + 1)]
+    for i in range(1, n + 1):
+        dp[i][0] = 0
+    for j in range(1, m + 1):
+        dp[0][j] = 0
+    for i in range(1, n + 1):
+        for j in range(1, m + 1):
+            if s1[i - 1] == s2[j - 1]:
+                dp[i][j] = dp[i - 1][j - 1] + 1
+            else:
+                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+    return dp[n][m]
+```. 
+                        Response in Nepali: यहाँ एउटा पाइथन प्रकार्य छ जसले दुई इनपुट स्ट्रिङहरूको सबैभन्दा लामो सामान्य अनुवर्ती फेला पार्न गतिशील प्रोग्रामिङ प्रयोग गर्दछ: ```पाइथन def longest_common_subsequence(s1, s2): """ यो प्रकार्यले दुई इनपुट स्ट्रिङहरूको सबैभन्दा लामो सामान्य अनुवर्ती फेला पार्न गतिशील प्रोग्रामिङ प्रयोग गर्दछ। :param s1: पहिलो इनपुट स्ट्रिङ :param s2: दोस्रो इनपुट स्ट्रिङ :return: सबैभन्दा लामो सामान्य अनुवर्तीको लम्बाइ ``` n = len(s1) m = len(s2) dp = [[0] * (n + 1) for i in range(n + 1)] दायरा (1, n + 1) को लागि i: dp[i][0] = 0 दायरा (1, m + 1) को लागि j: dp[0][j] = 0 दायरा (1, n + 1) को लागि i: दायरा (1, m + 1) को लागि j: यदि s1[i - 1] == s2[j - 1]: dp[i][j] = dp[i - 1][j - 1] + 1 else: dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]) रिटर्न dp[n][m] ```

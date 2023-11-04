@@ -1,0 +1,12 @@
+Instruction in English:  Draft an email apologizing to a customer who experienced a delay in their order, and assure them that the issue has been resolved..
+                        Response in English: Dear [Customer's Name],
+
+I am writing to apologize for the delay in the delivery of your order. We understand that this must have been frustrating for you, and we sincerely apologize for any inconvenience caused.
+
+I am happy to inform you that the issue has been resolved, and your order has been shipped. You should receive it within the next few days.
+
+Thank you for your patience and understanding. We value your business and appreciate your continued support.
+
+Sincerely,
+[Your Name]. 
+                        Response in Nepali: प्रिय [ग्राहकको नाम], म तपाईंको अर्डरको डेलिभरीमा ढिलाइको लागि माफी माग्दै लेख्दै छु। हामी बुझ्छौं कि यो तपाईंको लागि निराशाजनक हुनुपर्छ, र हामी कुनै पनि असुविधाको लागि क्षमाप्रार्थी छौं। म तपाईंलाई जानकारी गराउन पाउँदा खुसी छु कि समस्या समाधान भएको छ, र तपाईंको अर्डर पठाइएको छ। तपाईंले अर्को केही दिन भित्र प्राप्त गर्नुपर्छ। तपाईंको धैर्यता र समझको लागि धन्यवाद। हामी तपाईंको व्यवसायको कदर गर्छौं र तपाईंको निरन्तर समर्थनको कदर गर्छौं। भवदीय, [तपाईको नाम]

@@ -1,0 +1,47 @@
+Instruction in English:  Implement a stack data structure using two stacks in Python..
+                        Response in English: Here is an implementation of a stack data structure using two stacks in Python:
+
+```python
+class Stack:
+    def __init__(self):
+        self.stack1 = []
+        self.stack2 = []
+
+    def push(self, item):
+        self.stack1.append(item)
+
+    def pop(self):
+        return self.stack1.pop()
+
+    def peek(self):
+        return self.stack1[-1]
+
+    def is_empty(self):
+        return self.stack1 == []
+
+    def clear(self):
+        self.stack1 = []
+        self.stack2 = []
+
+    def size(self):
+        return len(self.stack1)
+
+    def top(self):
+        return self.stack2[-1]
+
+    def pop_top(self):
+        return self.stack2.pop()
+
+    def push_top(self, item):
+        self.stack2.append(item)
+
+    def peek_top(self):
+        return self.stack2[-1]
+
+    def is_empty_top(self):
+        return self.stack2 == []
+
+    def clear_top(self):
+        self.stack2 = []
+```. 
+                        Response in Maithili: यहाँ पायथन म॑ दू स्टैक के उपयोग करी क॑ एक कतार डाटा संरचना केरऽ एक कार्यान्वयन छै: ```python class Stack: def __init__(self): self.stack1 = [] self.stack2 = [] def push(self, item): self.stack1.append(item) def pop(self): return self.stack1.pop() def peek(self): return self.stack1[-1] def is_empty(self): return self.stack1 == [] def clear(self): self.stack1 = [] self.stack2 = [] def size(self): return len(self.stack1) def top(self): return self.stack2[-1] def pop_top(self): return self.stack2.pop() def push_top(self, item): self.stack2.append(item) def peek_top(self): return self.stack2[-1] def is_empty_top(self): return self.stack2 == [] def clear_top(self): self.stack2 = [] ```

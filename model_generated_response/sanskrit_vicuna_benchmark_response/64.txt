@@ -1,0 +1,14 @@
+Instruction in English:  Write a program to find the nth Fibonacci number using dynamic programming..
+                        Response in English: Here is a Python program that uses dynamic programming to find the nth Fibonacci number:
+
+```python
+def fibonacci(n):
+    if n == 0 or n == 1:
+        return 0
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+
+n = int(input("Enter the nth Fibonacci number: "))
+print(fibonacci(n))
+```. 
+                        Response in Sanskrit:  अत्र एकः पायथन् प्रोग्रामः अस्ति यः डायनामिक प्रोग्रामिंग् इत्यस्य उपयोगं कृत्वा nth Fibonacci संख्यां ज्ञातुं शक्नोति: ```python def fibonacci(n): if n == 0 or n == 1: return 0 else: return fibonacci(n-1) + fibonacci(n-2) n = int(input("nth Fibonacci संख्यां प्रविशतु: ")) print(fibonacci(n)) ```

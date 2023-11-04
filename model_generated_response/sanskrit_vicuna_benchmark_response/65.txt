@@ -1,0 +1,27 @@
+Instruction in English:  Implement a binary search algorithm to find a specific element in a sorted array..
+                        Response in English: Here is an implementation of a binary search algorithm in Python:
+
+```python
+def binary_search(arr, value):
+    """
+    Binary search algorithm to find a specific element in a sorted array.
+
+    :param arr: The sorted array to be searched.
+    :param value: The value to be searched for.
+    :return: The index of the element if found, else -1.
+    """
+    low = 0
+    high = len(arr) - 1
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == value:
+            return mid
+        elif arr[mid] < value:
+            low = mid + 1
+        else:
+            high = mid - 1
+    return -1
+```
+
+This algorithm works by dividing the search space into two halves and recursively searching each half until the desired element is found. The time complexity of this algorithm is O(log n), where n is the length of the array.. 
+                        Response in Sanskrit: अत्र पायथन् मध्ये द्विचक्रीय अन्वेषण एल्गोरिदम् इत्यस्य कार्यान्वयनम् अस्ति: ```python def binary_search(arr, value): """ क्रमबद्धे सरणीयां विशिष्टं तत्त्वं अन्वेष्टुं द्विचक्रीय अन्वेषण एल्गोरिदम्। :param arr: अन्वेषणीयः क्रमबद्धः सरणी। :param value: अन्वेषणीयः मूल्यः। :return: यदि लब्धः अस्ति तर्हि तत्त्वस्य अनुक्रमणिका, अन्यथा -1. low = 0 high = len(arr) - 1 while low <= high: mid = (low + high) // 2 if arr[mid] == value: return mid elif arr[mid] < value: low = mid + 1 else: high = mid - 1 return -1 ``` एषः एल्गोरिदम् अन्वेषणस्थानं द्वयोः अर्धयोः विभज्य पुनरावर्तनीयरूपेण प्रत्येकं अर्धं अन्वेषणं कृत्वा कार्यं करोति यावत् इष्टः तत्त्वः न लभ्यते अस्य एल्गोरिदमस्य समयजटिलता O(log n) अस्ति, यत्र n सरणीयाः दीर्घता अस्ति ।

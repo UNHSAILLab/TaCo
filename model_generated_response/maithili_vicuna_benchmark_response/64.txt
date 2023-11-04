@@ -1,0 +1,15 @@
+Instruction in English:  Write a program to find the nth Fibonacci number using dynamic programming..
+                        Response in English: Here is a Python program that uses dynamic programming to find the nth Fibonacci number:
+
+```python
+def fibonacci(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        return fibonacci(n-1) + fibonacci(n-2)
+```
+
+In this program, we define a function called `fibonacci` that takes an integer `n` as an argument. If `n` is equal to 0 or 1, we return the value 0 or 1, respectively. These are the first two Fibonacci numbers. If `n` is greater than 1, we call the `fibonacci` function recursively with `n-1` and `n-2` as arguments, and return the sum of their values. This process continues until we reach the base case of 0 or 1, at which point we return the appropriate value.. 
+                        Response in Maithili: यहाँ एक पायथन प्रोग्राम है जो nth Fibonacci नंबर खोजने के लिए डायनामिक प्रोग्रामिंग का उपयोग करता है: ```python def fibonacci(n): if n == 0: return 0 elif n == 1: return 1 else: return fibonacci(n-1) + fibonacci(n-2) ``` इस प्रोग्राम मे, हम `fibonacci` नामक एक फंक्शन परिभाषित करते हैं जो एक पूर्णांक `n` को एक तर्क के रूप में लेते हैं | यदि `n` 0 या 1 के बराबर अछि, त हम क्रमशः 0 या 1 के मान वापस करैत छी | ई सब पहिल दू टा फिबोनैची संख्या अछि। यदि `n` 1 स बेसी अछि, त हम `fibonacci` फंक्शन कको `n-1` और `n-2` कको आर्गुमेंट कके रूप ममें पुनरावर्ती रूप स कॉल करतक हहै, और उनके मान कक योग वापस करतक हहै | ई प्रक्रिया तब तलक जारी रहता है जब तक हम 0 या 1 के आधार केस तक नहीं पहुँच जाते हैं, जहाँ हम उचित मान वापस करते हैं |

@@ -1,0 +1,27 @@
+Instruction in English:  Implement a binary search algorithm to find a specific element in a sorted array..
+                        Response in English: Here is an implementation of a binary search algorithm in Python to find a specific element in a sorted array:
+
+```python
+def binary_search(arr, item):
+    """
+    Binary search algorithm to find a specific element in a sorted array.
+
+    :param arr: The sorted array to search.
+    :param item: The element to search for.
+    :return: The index of the element if it is found in the array, -1 otherwise.
+    """
+    lo = 0
+    hi = len(arr) - 1
+    while lo <= hi:
+        mid = (lo + hi) // 2
+        if arr[mid] == item:
+            return mid
+        elif arr[mid] > item:
+            hi = mid - 1
+        else:
+            lo = mid + 1
+    return -1
+```
+
+This algorithm works by dividing the search space in half at each iteration, and comparing the middle element to the target element. If the middle element is equal to the target element, then the target element is found and its index is returned. If the middle element is greater than the target element, then the search space is narrowed to the right half of the array, and the search continues. If the middle element is less than the target element, then the search space is narrowed to the left half of the array, and the search continues. This process continues until the target element is found or the search space is exhausted.. 
+                        Response in Maithili: यहाँ पायथन म॑ एक सॉर्ट करलऽ गेलऽ सरणी म॑ एक विशिष्ट तत्व खोजै लेली बाइनरी खोज एल्गोरिथ्म केरऽ एक कार्यान्वयन छै: ```python def binary_search(arr, item): """ सॉर्ट करलऽ गेलऽ सरणी म॑ एक विशिष्ट तत्व खोजै लेली बाइनरी खोज एल्गोरिथ्म. :param arr: खोज करै लेली सॉर्ट करलऽ गेलऽ सरणी. :param item: खोज करबाक लेल तत्व। :return: तत्वक सूचकांक जँ सरणी मे भेटल अछि, -1 अन्यथा। ``` lo = 0 hi = len(arr) - 1 जखन कि lo <= hi: mid = (lo + hi) // 2 if arr[mid] == item: return mid elif arr[mid] > item: hi = mid - 1 else: lo = mid + 1 return -1 ``` ई एल्गोरिदम हर पुनरावृत्ति पर खोज स्थान क॑ आधा म॑ विभाजित करी क॑, आरू मध्य तत्व केरऽ तार्किक तत्व स॑ तुलना करी क॑ काम करै छै । यदि मध्य तत्व लक्ष्य तत्व के बराबर छै, त॑ लक्ष्य तत्व मिलै छै आरू ओकरऽ सूचकांक वापस करलऽ जाय छै । यदि मध्य तत्व लक्ष्य तत्व स॑ अधिक छै, त॑ खोज स्थान क॑ सरणी केरऽ दाहिना आधा भाग म॑ संकुचित करी देलऽ जाय छै, आरू खोज जारी रहै छै । यदि मध्य तत्व लक्ष्य तत्व स॑ कम छै, त॑ खोज स्थान क॑ सरणी केरऽ बायां आधा भाग म॑ संकुचित करी देलऽ जाय छै, आरू खोज जारी रहै छै । ई प्रक्रिया ता धरि जारी रहैत अछि जा धरि लक्ष्य तत्व नहि भेटि जाइत अछि वा खोज स्थान समाप्त नहि भ' जाइत अछि ।

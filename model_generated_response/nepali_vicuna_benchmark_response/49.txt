@@ -1,0 +1,3 @@
+Instruction in English:  How many times has the Earth completed an orbit around the Sun since the beginning of life? Try to explain your answer. Your response must be less than 6 sentences..
+                        Response in English: The Earth has completed approximately 4.6 billion orbits around the Sun since the beginning of life on Earth, which is estimated to have occurred around 3.8 billion years ago.. 
+                        Response in Nepali:  पृथ्वीले पृथ्वीमा जीवनको शुरुवातदेखि सूर्यको वरिपरि लगभग 4.6 बिलियन परिक्रमा पूरा गरेको छ, जुन लगभग 3.8 बिलियन वर्ष पहिले भएको अनुमान गरिएको छ।

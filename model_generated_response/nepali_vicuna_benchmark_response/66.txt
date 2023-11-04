@@ -1,0 +1,220 @@
+Instruction in English:  Implement a long data structure using two stacks in Python..
+                        Response in English: To implement a long data structure using two stacks in Python, we can use a linked list. A linked list is a data structure that consists of a series of nodes, where each node contains a data value and a reference to the next node in the list.
+
+Here's an example implementation:
+
+```python
+class Node:
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+
+class LinkedList:
+    def __init__(self):
+        self.head = None
+        self.tail = None
+
+    def push(self, data):
+        new_node = Node(data)
+        if self.head is None:
+            self.head = new_node
+            self.tail = new_node
+        else:
+            current_node = self.head
+            while current_node.next is not None:
+                current_node = current_node.next
+            current_node.next = new_node
+            self.tail = new_node
+
+    def pop(self):
+        if self.head is None:
+            return None
+        else:
+            data = self.head.data
+            self.head = self.head.next
+            if self.head is None:
+                self.tail = None
+            return data
+
+    def print_list(self):
+        current_node = self.head
+        while current_node is not None:
+            print(current_node.data)
+            current_node = current_node.next
+
+list = LinkedList()
+stack1 = LinkedList()
+stack2 = LinkedList()
+
+stack1.push(1)
+stack1.push(2)
+stack1.push(3)
+stack1.push(4)
+stack1.push(5)
+stack1.push(6)
+stack1.push(7)
+stack1.push(8)
+stack1.push(9)
+stack1.push(10)
+stack1.push(11)
+stack1.push(12)
+stack1.push(13)
+stack1.push(14)
+stack1.push(15)
+stack1.push(16)
+stack1.push(17)
+stack1.push(18)
+stack1.push(19)
+stack1.push(20)
+stack1.push(21)
+stack1.push(22)
+stack1.push(23)
+stack1.push(24)
+stack1.push(25)
+stack1.push(26)
+stack1.push(27)
+stack1.push(28)
+stack1.push(29)
+stack1.push(30)
+stack1.push(31)
+stack1.push(32)
+stack1.push(33)
+stack1.push(34)
+stack1.push(35)
+stack1.push(36)
+stack1.push(37)
+stack1.push(38)
+stack1.push(39)
+stack1.push(40)
+stack1.push(41)
+stack1.push(42)
+stack1.push(43)
+stack1.push(44)
+stack1.push(45)
+stack1.push(46)
+stack1.push(47)
+stack1.push(48)
+stack1.push(49)
+stack1.push(50)
+stack1.push(51)
+stack1.push(52)
+stack1.push(53)
+stack1.push(54)
+stack1.push(55)
+stack1.push(56)
+stack1.push(57)
+stack1.push(58)
+stack1.push(59)
+stack1.push(60)
+stack1.push(61)
+stack1.push(62)
+stack1.push(63)
+stack1.push(64)
+stack1.push(65)
+stack1.push(66)
+stack1.push(67)
+stack1.push(68)
+stack1.push(69)
+stack1.push(70)
+stack1.push(71)
+stack1.push(72)
+stack1.push(73)
+stack1.push(74)
+stack1.push(75)
+stack1.push(76)
+stack1.push(77)
+stack1.push(78)
+stack1.push(79)
+stack1.push(80)
+stack1.push(81)
+stack1.push(82)
+stack1.push(83)
+stack1.push(84)
+stack1.push(85)
+stack1.push(86)
+stack1.push(87)
+stack1.push(88)
+stack1.push(89)
+stack1.push(90)
+stack1.push(91)
+stack1.push(92)
+stack1.push(93)
+stack1.push(94)
+stack1.push(95)
+stack1.push(96)
+stack1.push(97)
+stack1.push(98)
+stack1.push(99)
+stack1.push(100)
+stack1.push(101)
+stack1.push(102)
+stack1.push(103)
+stack1.push(104)
+stack1.push(105)
+stack1.push(106)
+stack1.push(107)
+stack1.push(108)
+stack1.push(109)
+stack1.push(110)
+stack1.push(111)
+stack1.push(112)
+stack1.push(113)
+stack1.push(114)
+stack1.push(115)
+stack1.push(116)
+stack1.push(117)
+stack1.push(118)
+stack1.push(119)
+stack1.push(120)
+stack1.push(121)
+stack1.push(122)
+stack1.push(123)
+stack1.push(124)
+stack1.push(125)
+stack1.push(126)
+stack1.push(127)
+stack1.push(128)
+stack1.push(129)
+stack1.push(130)
+stack1.push(131)
+stack1.push(132)
+stack1.push(133)
+stack1.push(134)
+stack1.push(135)
+stack1.push(136)
+stack1.push(137)
+stack1.push(138)
+stack1.push(139)
+stack1.push(140)
+stack1.push(141)
+stack1.push(142)
+stack1.push(143)
+stack1.push(144)
+stack1.push(145)
+stack1.push(146)
+stack1.push(147)
+stack1.push(148)
+stack1.push(149)
+stack1.push(150)
+stack1.push(151)
+stack1.push(152)
+stack1.push(153)
+stack1.push(154)
+stack1.push(155)
+stack1.push(156)
+stack1.push(157)
+stack1.push(158)
+stack1.push(159)
+stack1.push(160)
+stack1.push(161)
+stack1.push(162)
+stack1.push(163)
+stack1.push(164)
+stack1.push(165)
+stack1.push(166)
+stack1.push(167)
+stack1.push(168)
+stack1.push(169)
+stack1.push(170)
+stack1.push(171)
+stack1.push(172

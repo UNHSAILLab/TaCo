@@ -1,0 +1,10 @@
+Instruction in English:  Can you help me write a resignation letter to my current employer, and, with dignity, express gratitude for the opportunities provided, and your response must be less than 6 sentences..
+                        Response in English: Dear [Employer],
+
+I am writing to inform you that I will be resigning from my position at [Company] effective [date]. I have enjoyed my time at [Company] and am grateful for the opportunities that have been provided to me.
+
+Thank you for your support and guidance during my time at [Company].
+
+Sincerely,
+[Your Name]. 
+                        Response in Sanskrit:  प्रिय [नियोक्ता], अहं भवन्तं सूचयितुं लिखामि यत् अहं [कम्पनी] इत्यत्र मम पदात् [तिथि] प्रभावीरूपेण त्यागपत्रं दास्यामि। अहं [कम्पनी] इत्यत्र मम समयं आनन्दितवान् अस्मि, मम कृते प्रदत्तानां अवसरानां कृते अहं कृतज्ञः अस्मि। [कम्पनी] इत्यत्र मम समये भवतः समर्थनस्य मार्गदर्शनस्य च कृते धन्यवादः। सादरम्, [भवतः नाम] ।

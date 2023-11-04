@@ -1,0 +1,3 @@
+Instruction in English:  How many protons are there in a hydrogen atom? Try to explain your answer to the reader. Your response must be less than 6 sentences..
+                        Response in English: A hydrogen atom consists of one proton and one electron. Therefore, there is one proton in a hydrogen atom.. 
+                        Response in Maithili:  हाइड्रोजन परमाणु मे एकटा प्रोटॉन आ एकटा इलेक्ट्रॉन होइत अछि । तेँ हाइड्रोजन परमाणु मे एकटा प्रोटॉन होइत अछि ।

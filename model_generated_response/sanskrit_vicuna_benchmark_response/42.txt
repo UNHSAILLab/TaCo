@@ -1,0 +1,3 @@
+Instruction in English:  How many protons are there in a sodium atom? Try to explain your answer. Your explanation should walk the reader through your reasoning step by step..
+                        Response in English: There are 11 protons in a sodium atom. This can be determined by looking at the atomic number of sodium, which is 11. The atomic number represents the number of protons in an atom, so there are 11 protons in a sodium atom.. 
+                        Response in Sanskrit:  लवणकणिकायां ११ परमाणुः भवति । लवणस्य परमाणुसङ्ख्यां दृष्ट्वा एतत् निर्धारयितुं शक्यते, या ११ अस्ति । परमाणुसङ्ख्या परमाणुमध्ये परमाणुसङ्ख्यां प्रतिनिधियति, अतः लवणकणिकायां ११ परमाणुः भवति ।

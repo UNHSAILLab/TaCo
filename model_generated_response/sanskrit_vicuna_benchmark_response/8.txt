@@ -1,0 +1,13 @@
+Instruction in English:  What are the major challenges in the education sector today? Your response must be less than 6 sentences..
+                        Response in English: Some of the major challenges in the education sector today include:
+
+1. Lack of access to quality education: Many children, especially in developing countries, do not have access to quality education.
+
+2. Outdated curriculum: The curriculum in many schools is outdated and does not prepare students for the challenges of the 21st century.
+
+3. Teacher shortage: There is a global shortage of qualified teachers, especially in rural and remote areas.
+
+4. Lack of funding: Many schools, especially in developing countries, do not have adequate funding to provide quality education.
+
+5. Lack of technology: Many schools do not have access to the latest technology, making it difficult for students to learn effectively.. 
+                        Response in Sanskrit: अद्यत्वे शिक्षाक्षेत्रे केचन प्रमुखाः आव्हानाः सन्ति : 1. गुणवत्तापूर्णशिक्षायाः अभावः : अनेकेषां बालकानां, विशेषतः विकासशीलदेशेषु, गुणवत्तापूर्णशिक्षायाः उपलब्धिः नास्ति। 2. पुरातनपाठ्यक्रमः : अनेकविद्यालयेषु पाठ्यक्रमः पुरातनः अस्ति तथा च २१ शताब्द्याः आव्हानानां सज्जीकरणं न करोति। 3. शिक्षकस्य अभावः : विशेषतः ग्रामीण-दूरस्थेषु क्षेत्रेषु योग्यशिक्षकाणां वैश्विक-अभावः अस्ति । 4. वित्तपोषणस्य अभावः : विशेषतः विकासशीलदेशेषु बहवः विद्यालयाः गुणवत्तापूर्णशिक्षाप्रदानार्थं पर्याप्तं वित्तपोषणं नास्ति। 5. प्रौद्योगिक्याः अभावः : अनेकेषु विद्यालयेषु नवीनतमप्रौद्योगिक्याः प्रवेशः नास्ति, येन छात्राणां कृते प्रभावीरूपेण शिक्षणं कठिनं भवति।

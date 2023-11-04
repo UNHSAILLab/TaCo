@@ -1,0 +1,48 @@
+Instruction in English:  Implement a data structure using two queues in Python..
+                        Response in English: One way to implement a data structure using two queues in Python is to use a double-ended queue. A double-ended queue, also known as a deque (for double-ended queue), is a data structure that supports adding and removing elements from either end of the queue.
+
+Here is an example implementation of a double-ended queue in Python:
+
+```python
+class DoubleEndedQueue:
+    def __init__(self):
+        self.left = []
+        self.right = []
+
+    def enqueue(self, item):
+        if not self.left:
+            self.left.append(item)
+        else:
+            self.right.append(item)
+
+    def dequeue(self):
+        if self.left:
+            return self.left.pop()
+        else:
+            return self.right.pop()
+
+    def peek(self):
+        if self.left:
+            return self.left[-1]
+        else:
+            return self.right[-1]
+
+queue = DoubleEndedQueue()
+
+queue.enqueue(1)
+queue.enqueue(2)
+queue.enqueue(3)
+
+print(queue.peek())  # 1
+queue.dequeue()
+print(queue.peek())  # 2
+queue.dequeue()
+print(queue.peek())  # 3
+queue.dequeue()
+print(queue.peek())  # None
+```
+
+In this example, the `DoubleEndedQueue` class implements a double-ended queue using two lists, `left` and `right`, to store the elements. The `enqueue` method adds an element to the end of the queue, while the `dequeue` method removes an element from the end of the queue. The `peek` method returns the element at the front of the queue without removing it.
+
+You can use this double-ended queue to implement various data structures and algorithms, such as stacks, queues, and priority queues.. 
+                        Response in Persian: یکی از راه‌های پیاده‌سازی یک ساختار داده با استفاده از دو صف در پایتون، استفاده از صف دو پایانی است. صف دو پایانی که به آن deque (برای صف دو پایانی) نیز معروف است، یک ساختار داده ای است که از افزودن و حذف عناصر از هر دو انتهای صف پشتیبانی می کند. در اینجا یک مثال از پیاده سازی یک صف دو پایانی در پایتون آورده شده است: ```python class DoubleEndedQueue: def __init__(self): self.left = [] self.right = [] def enqueue(self, item): if not self.left: self.left.append(item) else: self.right.append(item) def dequeue(self): if self.left: return self.left.pop() else: return self.right.pop() def peek(self): if self.left: return self.left[-1] else: return self.right[-1] queue = DoubleEndedQueue() queue.enqueue(1) queue.enqueue(2) queue.enqueue(3) print(queue.peek()) # 1 queue.dequeue() print(queue.peek()) # 2 queue.dequeue() print(queue.peek()) # 3 queue.dequeue() print(queue.peek()) # None ``` در این مثال، کلاس «DoubleEndedQueue» یک صف دو پایانی را با استفاده از دو لیست، «left» و «right» برای ذخیره عناصر پیاده سازی می کند. متد «enqueue» یک عنصر را به انتهای صف اضافه می کند، در حالی که متد «dequeue» یک عنصر را از انتهای صف حذف می کند. متد «peek» عنصر جلوی صف را بدون حذف آن برمی گرداند. می توانید از این صف دو پایانی برای پیاده سازی ساختارها و الگوریتم های مختلف داده مانند پشته ها، صف ها و صف های اولویت استفاده کنید.

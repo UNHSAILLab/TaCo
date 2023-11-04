@@ -1,0 +1,15 @@
+Instruction in English:  Implement a regular expression to validate an email address in Python..
+                        Response in English: Here is a regular expression that can be used to validate an email address in Python:
+
+```python
+import re
+
+email_regex = re.compile(r"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$")
+
+def validate_email(email):
+    if email_regex.match(email):
+        return True
+    else:
+        return False
+```. 
+                        Response in Maithili:  यहाँ एक रेगुलर एक्सप्रेशन छै जेकरऽ उपयोग पायथन म॑ ईमेल पता क॑ मान्य करै लेली करलऽ जाब॑ सकै छै: ```python import re email_regex = re.compile(r"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$") def validate_email(email): if email_regex.match(email): return True else: return False ```

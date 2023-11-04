@@ -1,0 +1,12 @@
+Instruction in English:  Draft an apology email to a customer whose order was delayed, and assure them that the issue has been resolved..
+                        Response in English: Dear [Customer],
+
+We sincerely apologize for the delay in the delivery of your order. We understand that this may have caused inconvenience, and we would like to take this opportunity to assure you that the issue has been resolved.
+
+Our team has been working diligently to ensure that your order is delivered to you as soon as possible. We appreciate your patience and understanding during this time.
+
+Once again, we apologize for any inconvenience this may have caused, and we thank you for your continued support.
+
+Sincerely,
+[Your Company]. 
+                        Response in Sanskrit: प्रिय [ग्राहक], भवतः आदेशस्य वितरणस्य विलम्बस्य कृते वयं हार्दिकतया क्षमायाचनां कुर्मः। एतेन असुविधा अभवत् इति वयं अवगच्छामः, अस्माभिः एतत् अवसरं गृहीत्वा भवद्भ्यः आश्वासनं दातुं इच्छामः यत् एषा समस्या समाधानं कृता अस्ति। अस्माकं दलं भवतः आदेशः यथाशीघ्रं भवतः कृते वितरितः भवतु इति सुनिश्चित्य प्रयत्नपूर्वकं कार्यं कुर्वन् अस्ति। अस्मिन् काले भवतः धैर्यं, अवगमनं च वयं प्रशंसयामः। पुनः एतेन यत्किमपि असुविधा अभवत् तदर्थं वयं क्षमायाचनां कुर्मः, भवतः निरन्तरं समर्थनस्य कृते च धन्यवादं दद्मः। सादरम्, [भवतः कम्पनी]।

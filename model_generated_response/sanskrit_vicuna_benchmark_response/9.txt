@@ -1,0 +1,15 @@
+Instruction in English:  What are the primary factors that influence consumer behavior? Your response must be less than 6 sentences..
+                        Response in English: The primary factors that influence consumer behavior include:
+
+1. Demographics: Age, gender, income, education, family size, and ethnicity all play a role in shaping consumer behavior.
+
+2. Psychographics: Personality traits, values, attitudes, interests, and lifestyles also impact consumer behavior.
+
+3. Economic Factors: The state of the economy, such as inflation, unemployment, and interest rates, can affect consumer behavior.
+
+4. Social Factors: The influence of friends, family, and peers, as well as social norms and trends, can impact consumer behavior.
+
+5. Cultural Factors: Cultural values, beliefs, and traditions can shape consumer behavior, particularly when it comes to purchasing certain products or services.
+
+6. Environmental Factors: The physical environment, such as store layout, product packaging, and advertising, can influence consumer behavior.. 
+                        Response in Sanskrit: उपभोक्तृव्यवहारं प्रभावितं कुर्वन्ति प्राथमिककारकाः सन्ति : 1. जनसांख्यिकीयविवरणम् : आयुः, लिंगं, आयः, शिक्षा, परिवारस्य आकारः, जातीयता च सर्वे उपभोक्तृव्यवहारस्य आकारे भूमिकां निर्वहन्ति 2. मनोवैज्ञानिकम् : व्यक्तित्वलक्षणं, मूल्यानि, मनोवृत्तयः, रुचिः, जीवनशैली च उपभोक्तृव्यवहारं प्रभावितं कर्तुं शक्नुवन्ति। 3. आर्थिककारकाः : अर्थव्यवस्थायाः स्थितिः, यथा महङ्गानि, बेरोजगारी, व्याजदराणि च, उपभोक्तृव्यवहारं प्रभावितं कर्तुं शक्नुवन्ति। 4. सामाजिककारकाः : मित्राणां, परिवारस्य, सहपाठिनां च प्रभावः, तथैव सामाजिकमान्यताः प्रवृत्तयः च उपभोक्तृव्यवहारं प्रभावितं कर्तुं शक्नुवन्ति। 5. सांस्कृतिककारकाः : सांस्कृतिकमूल्यानि, विश्वासाः, परम्पराश्च उपभोक्तृव्यवहारं आकारं दातुं शक्नुवन्ति, विशेषतः यदा कतिपयानां उत्पादानाम् अथवा सेवानां क्रयणस्य विषयः आगच्छति। 6. पर्यावरणीयकारकाः : भौतिकपर्यावरणं, यथा भण्डारविन्यासः, उत्पादपैकेजिंग्, विज्ञापनं च, उपभोक्तृव्यवहारं प्रभावितं कर्तुं शक्नोति।

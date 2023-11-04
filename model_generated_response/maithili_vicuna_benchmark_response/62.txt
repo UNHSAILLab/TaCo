@@ -1,0 +1,27 @@
+Instruction in English:  Implement a Python function to find the longest common subsequence of two input strings using dynamic programming..
+                        Response in English: Here is a Python function that uses dynamic programming to find the longest common subsequence of two input strings:
+
+```python
+def longest_common_subsequence(s1, s2):
+    """
+    Find the longest common subsequence of two input strings using dynamic programming.
+
+    :param s1: The first input string
+    :param s2: The second input string
+    :return: The length of the longest common subsequence
+    """
+    m, n = len(s1), len(s2)
+    dp = [[0] * (n + 1) for _ in range(m + 1)]
+    for i in range(1, m + 1):
+        dp[i][0] = 0
+    for j in range(1, n + 1):
+        dp[0][j] = 0
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            if s1[i - 1] == s2[j - 1]:
+                dp[i][j] = dp[i - 1][j - 1] + 1
+            else:
+                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+    return dp[m][n]
+```. 
+                        Response in Maithili: यहाँ एक पायथन फ़ंक्शन है जो डायनामिक प्रोग्रामिंग कक उपयोग करकय दो इनपुट स्ट्रिंग कक सबसे लम्बा आम उपक्रम कको खोजनके कके सलए हहै: ```python def longest_common_subsequence(s1, s2): """ डायनामिक प्रोग्रामिंग कके उपयोग करकके दो इनपुट स्ट्रिंग कके सबसे लम्बा आम उपक्रम कको खोजकके | :param s1: पहिल इनपुट स्ट्रिंग :param s2: दोसर इनपुट स्ट्रिंग :return: सबसे लम्बा आम उपक्रम की लंबाई """ m, n = len(s1), len(s2) dp = [[0] * (n + 1) for _ in range(m + 1)] रेंज (1, में i के लिए) में रेंज (1, में j के लिए): dp[i][0] = 0 रेंज (1, n + 1) में j के लिए: dp[0][j] = 0 रेंज (1, m + 1) में i के लिए: रेंज (1, n + 1) में j के लिए: अगर s1 [i - 1] == s2 [j - 1]: dp [i] [j] = dp [i - 1] [j - 1] + 1 अन्यथा: dp [i] [j] = अधिकतम (dp [i - 1] [j], dp [i] [j - 1]) return dp [m] [n] ```

@@ -1,0 +1,8 @@
+Instruction in English:  Can you help me write a formal email to a potential business partner who has proposed a joint venture? Your response must be less than 6 sentences..
+                        Response in English: Dear [Partner's Name],
+
+Thank you for your interest in pursuing a joint venture with our company. We are excited about the opportunity and look forward to discussing the details of the proposal in more depth. Please let us know when would be a convenient time for you to schedule a meeting.
+
+Best regards,
+[Your Name]. 
+                        Response in Persian:  [نام شریک] عزیز، از علاقه شما به پیگیری یک سرمایه گذاری مشترک با شرکت ما سپاسگزاریم. ما از این فرصت هیجان زده هستیم و مشتاقانه منتظر بحث در مورد جزئیات پیشنهاد هستیم. لطفاً زمان مناسبی را برای جلسه به ما اطلاع دهید. با احترام، [نام شما]

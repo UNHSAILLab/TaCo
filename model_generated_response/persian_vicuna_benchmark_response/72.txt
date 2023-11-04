@@ -1,0 +1,10 @@
+Instruction in English:  Can you help me write a resignation letter to my current employer while leaving on good terms and thanking them for the opportunities provided? Your response must be less than 6 sentences..
+                        Response in English: Dear [Employer],
+
+I am writing to inform you that I will be resigning from my position at [Company] effective [date]. I have enjoyed my time here and appreciate the opportunities that have been provided to me.
+
+Thank you for your support and guidance during my time with the company. I wish you all the best in the future.
+
+Sincerely,
+[Your Name]. 
+                        Response in Persian: [کارفرما] عزیز، من می نویسم تا به شما اطلاع دهم که من از [شرکت] موقت [تاریخ] استعفا خواهم داد. من از زمان گذراندن در اینجا لذت برده ام و از فرصت هایی که در اختیار من قرار گرفته است قدردانی می کنم. از حمایت و راهنمایی شما در طول مدت حضور من در شرکت سپاسگزارم. برای شما آرزوی موفقیت در آینده دارم. با احترام، [نام شما]

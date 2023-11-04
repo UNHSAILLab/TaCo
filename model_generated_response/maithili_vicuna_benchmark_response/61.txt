@@ -1,0 +1,39 @@
+Instruction in English:  Develop a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file. Your response must be less than 6 sentences..
+                        Response in English: Here is a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file:
+
+```c++
+#include <iostream>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+int main() {
+    ifstream file;
+    string word;
+    int count = 0;
+
+    cout << "Enter the file name: ";
+    string filename;
+    cin >> filename;
+
+    file.open(filename);
+
+    if (file.is_open()) {
+        while (!file.eof()) {
+            getline(file, line);
+            if (line.find(word) != string::npos) {
+                count++;
+            }
+        }
+        file.close();
+        cout << "The number of occurrences of " << word << " in the file is " << count << endl;
+    }
+    else {
+        cout << "Could not open the file" << endl;
+    }
+
+    return 0;
+}
+```. 
+                        Response in Maithili: यहाँ एक C++ प्रोग्राम छै जे एक टेक्स्ट फाइल क॑ लाइन दर लाइन पढ़ै छै आरू फाइल म॑ एक विशिष्ट शब्द केरऽ आवृत्ति के संख्या गिनै छै: ```c++ #include <iostream> #include <fstream> #include <string> using namespace std; int main () { ifstream file; string word; int count = 0; cout << "फाइल के नाम दर्ज करू: "; string filename; cin >> filename; file.open (filename); if (file.is_open ()) { while (!file.eof ()) { getline (file, line); if (line.find (word) != string:: npos) { count++; } } file.close (); cout << "फाइल मे " << word << " के आवृत्ति की संख्या " << गिनती << endl; } else { cout << "फाइल नहि खोलल गेल" << endl; } return 0; } ```

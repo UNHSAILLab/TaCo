@@ -1,0 +1,15 @@
+Instruction in English:  What factors would you consider when designing an inclusive and accessible public transportation system? Your response must be less than 6 sentences..
+                        Response in English: When designing an inclusive and accessible public transportation system, factors to consider include:
+
+1. Physical accessibility: Ensuring that all stations, platforms, and vehicles are accessible to people with disabilities, including those who use wheelchairs, canes, or other mobility aids.
+
+2. Visual and auditory accessibility: Providing clear signage and announcements in multiple languages and formats, including braille, large print, and audio announcements.
+
+3. Mental and cognitive accessibility: Designing the system in a way that is easy to understand and navigate for people with cognitive disabilities, such as autism or dementia.
+
+4. Economic accessibility: Ensuring that the system is affordable and accessible to people from all socio-economic backgrounds.
+
+5. Cultural accessibility: Recognizing and accommodating the needs of people from diverse cultural backgrounds, including religious and ethnic minorities.
+
+6. Gender accessibility: Designing the system in a way that is safe and comfortable for people of all genders.. 
+                        Response in Maithili: समावेशी आ सुलभ सार्वजनिक परिवहन प्रणाली कें डिजाइन करय कें समय विचार करय कें लेल विचार करय कें लेल कारक मे शामिल छै: 1. शारीरिक सुलभता: इ सुनिश्चित करनाय की सबटा स्टेशन, प्लेटफॉर्म, आ वाहन विकलांग लोगक कें लेल सुलभ छै, जइ मे पहिया, बेंत, या अन्य गतिशीलता सहायक उपकरणक कें उपयोग करएय वाला लोगक कें शामिल छै. 2. दृश्य आ श्रव्य सुलभता : अनेक भाषा आ प्रारूप मे स्पष्ट संकेतन आ घोषणा प्रदान करनाय, जइ मे ब्रेल, पैघ प्रिंट, आ ऑडियो घोषणा शामिल छै. 3. मानसिक आ संज्ञानात्मक सुलभता : प्रणाली कें एहन तरीका सं डिजाइन करनाय जे संज्ञानात्मक विकलांगता वाला लोगक कें लेल समझनाय आ नेविगेट करनाय आसान होय. 4. आर्थिक सुलभता : ई सुनिश्चित करब जे प्रणाली सब सामाजिक-आर्थिक पृष्ठभूमि के लोक के लेल सस्ती आ सुलभ अछि। 5. सांस्कृतिक सुलभता : विविध सांस्कृतिक पृष्ठभूमि कें लोगक कें जरूरतक कें पहचान करनाय आ ओकरा समायोजित करनाय, जइ मे धार्मिक आ जातीय अल्पसंख्यक शामिल छै. 6. लैंगिक सुलभता : प्रणाली कें एहन तरीका सं डिजाइन करनाय जे सब लिंग कें लोगक कें लेल सुरक्षित आ आरामदायक होयत.

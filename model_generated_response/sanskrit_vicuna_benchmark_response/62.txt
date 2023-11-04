@@ -1,0 +1,23 @@
+Instruction in English:  Implement a Python function to find the longest common subsequence between two input strings using dynamic programming..
+                        Response in English: Here's a Python function that uses dynamic programming to find the longest common subsequence between two input strings:
+
+```python
+def longest_common_subsequence(s1, s2):
+    n = len(s1)
+    m = len(s2)
+    dp = [[0] * (n + 1) for i in range(n + 1)]
+    for i in range(1, n + 1):
+        dp[i][0] = 0
+    for j in range(1, m + 1):
+        dp[0][j] = 0
+    for i in range(1, n + 1):
+        for j in range(1, m + 1):
+            if s1[i - 1] == s2[j - 1]:
+                dp[i][j] = dp[i - 1][j - 1] + 1
+            else:
+                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])
+    return dp[n][m]
+```
+
+This function takes two input strings, `s1` and `s2`, and returns the length of the longest common subsequence between them. The function uses dynamic programming to solve this problem by creating an n x m matrix `dp` where `n` is the length of `s1` and `m` is the length of `s2`. The function then populates the matrix by iterating over the rows and columns, keeping track of the longest common subsequence for each position in the matrix. The function returns the length of the longest common subsequence found in the matrix.. 
+                        Response in Sanskrit: अत्र एकं पायथन् फंक्शन् अस्ति यत् द्वयोः इनपुट् स्ट्रिंग्योः मध्ये दीर्घतमं सामान्यं उपक्रमं अन्वेष्टुं डायनामिक प्रोग्रामिंग् इत्यस्य उपयोगं करोति: ```python def longest_common_subsequence(s1, s2): n = len(s1) m = len(s2) dp = [[0] * (n + 1) for i in range(n + 1)] for i in range(1, n + 1): dp[i][0] = 0 for j in range(1, m + 1): dp[0][j] = 0 for i in range(1, n + 1): for j in range(1, m + 1): if s1[i - 1] == s2[j - 1]: dp[i][j] = dp[i - 1][j - 1] + 1 else: dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]) return dp[n][m] ``` एतत् फंक्शन् द्वौ इनपुट् स्ट्रिंग् गृह्णाति, `s1` तथा `s2`, तयोः मध्ये दीर्घतमस्य सामान्यस्य उपक्रमस्य दीर्घतां च प्रत्यागच्छति । फंक्शन् n x m मैट्रिक्स `dp` रचयित्वा एतस्य समस्यायाः समाधानार्थं गतिशीलप्रोग्रामिंग् इत्यस्य उपयोगं करोति यत्र `n` `s1` इत्यस्य दीर्घता अस्ति तथा च `m` `s2` इत्यस्य दीर्घता अस्ति ततः फंक्शन् पङ्क्तिस्तम्भयोः उपरि पुनरावृत्तिं कृत्वा मैट्रिक्सं जनयति, मैट्रिक्सस्य प्रत्येकस्य स्थानस्य कृते दीर्घतमस्य सामान्यस्य उपक्रमस्य निरीक्षणं कृत्वा फंक्शन् मैट्रिक्स् मध्ये प्राप्तस्य दीर्घतमस्य सामान्यस्य उपक्रमस्य दीर्घतां प्रत्यागच्छति ।

@@ -1,0 +1,10 @@
+Instruction in English:  Given that f(x) = 5x^3 - 2x + 3, find the value of f(2)..
+                        Response in English: To find the value of f(2), we need to substitute 2 for x in the function f(x) = 5x^3 - 2x + 3. This gives us:
+
+f(2) = 5(2)^3 - 2(2) + 3
+f(2) = 5(8) - 4 + 3
+f(2) = 40 - 4 + 3
+f(2) = 39
+
+Therefore, the value of f(2) is 39.. 
+                        Response in Persian:  برای یافتن مقدار f(2)، باید 2 را به جای x در تابع f(x) = 5x^3 - 2x + 3 جایگزین کنیم. این به ما می دهد: f(2) = 5(2)^3 - 2(2) + 3 f(2) = 5(8) - 4 + 3 f(2) = 40 - 4 + 3 f(2) = 39 بنابراین، مقدار f(2) 39 است.

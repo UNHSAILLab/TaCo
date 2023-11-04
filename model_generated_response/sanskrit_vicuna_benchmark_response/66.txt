@@ -1,0 +1,79 @@
+Instruction in English:  Implement a binary tree data structure using two stacks in Python..
+                        Response in English: Here is an implementation of a binary tree data structure using two stacks in Python:
+
+```python
+class Node:
+    def __init__(self, value):
+        self.value = value
+        self.left = None
+        self.right = None
+
+class BinaryTree:
+    def __init__(self):
+        self.root = None
+        self.stack1 = []
+        self.stack2 = []
+
+    def insert(self, value):
+        if self.root is None:
+            self.root = Node(value)
+            self.stack1.append(self.root)
+            self.stack2.append(self.root)
+        else:
+            while self.stack1 or self.stack2:
+                node = self.stack1.pop() if self.stack1 else self.stack2.pop()
+                if node.value < value:
+                    if node.left is None:
+                        node.left = Node(value)
+                        self.stack1.append(node.left)
+                        self.stack2.append(node.left)
+                    else:
+                        self.stack1.append(node.left)
+                        self.stack2.append(node.left)
+                else:
+                    if node.right is None:
+                        node.right = Node(value)
+                        self.stack1.append(node.right)
+                        self.stack2.append(node.right)
+                    else:
+                        self.stack1.append(node.right)
+                        self.stack2.append(node.right)
+
+    def inorder(self):
+        if self.root is None:
+            return
+        self.inorder(self.root.left)
+        print(self.root.value, end=' ')
+        self.inorder(self.root.right)
+
+    def preorder(self):
+        if self.root is None:
+            return
+        print(self.root.value, end=' ')
+        self.preorder(self.root.left)
+        self.preorder(self.root.right)
+
+    def postorder(self):
+        if self.root is None:
+            return
+        self.postorder(self.root.left)
+        self.postorder(self.root.right)
+        print(self.root.value, end=' ')
+
+tree = BinaryTree()
+tree.insert(1)
+tree.insert(2)
+tree.insert(3)
+tree.insert(4)
+tree.insert(5)
+tree.insert(6)
+tree.insert(7)
+tree.insert(8)
+tree.insert(9)
+tree.inorder()
+tree.preorder()
+tree.postorder()
+```
+
+This implementation uses two stacks, `stack1` and `stack2`, to maintain the. 
+                        Response in Sanskrit: अत्र पायथन् मध्ये द्वयोः स्टैकयोः उपयोगेन द्विचक्रीयवृक्षदत्तांशसंरचनायाः कार्यान्वयनम् अस्ति: ```python class Node: def __init__(self, value): self.value = value self.left = None self.right = None class BinaryTree: def __init__(self): self.root = None self.stack1 = [] self.stack2 = [] def insert(self, value): if self.root is None: self.root = Node(value) self.stack1.append(self.root) self.stack2.append(self.root) else: while self.stack1 or self.stack2: node = self.stack1.pop() if self.stack1 else self.stack2.pop() if node.value < value: if node.left is None: node.left = Node(value) self.stack1.append(node.left) self.stack2.append(node.left) else: self.stack1.append(node.left) self.stack2.append(node.left) else: if node.right is None: node.right = Node(value) self.stack1.append(node.right) self.stack2.append(node.right) else: self.stack1.append(node.right) self.stack2.append(node.right) def inorder(self): if self.root is None: return self.inorder(self.root.left) print(self.root.value, end=' ') self.inorder(self.root.right) def preorder(self): if self.root is None: return print(self.root.value, end=' ') self.preorder(self.root.left) self.preorder(self.root.right) def postorder(self): if self.root is None: return self.postorder(self.root.left) self.postorder(self.root.right) print(self.root.value, end=' ') tree = BinaryTree() tree.insert(1) tree.insert(2) tree.insert(3) tree.insert(4) tree.insert(5) tree.insert(6) tree.insert(7) tree.insert(8) tree.insert(9) tree.inorder() tree.preorder() tree.postorder() ``` एतत् कार्यान्वयनम् द्वयोः स्टैकयोः उपयोगं करोति, `stack1` तथा `stack2`, द्विचक्रीयवृक्षस्य निर्वाहार्थम् ।

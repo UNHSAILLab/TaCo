@@ -1,0 +1,22 @@
+Instruction in English:  Implement a program to find the common elements in two arrays without using any additional data structures..
+                        Response in English: Here is a simple program in Python that finds the common elements in two arrays without using any additional data structures:
+
+```python
+def common_elements(arr1, arr2):
+    common_elements = []
+    for element in arr1:
+        if element in arr2:
+            common_elements.append(element)
+    return common_elements
+
+arr1 = [1, 2, 3, 4, 5]
+arr2 = [3, 4, 5, 6, 7]
+
+common_elements = common_elements(arr1, arr2)
+print(common_elements)
+```
+
+In this program, we define a function `common_elements` that takes two arrays as arguments. Inside the function, we iterate through the first array and check if each element is present in the second array. If it is, we append the element to the `common_elements` list. Finally, we return the `common_elements` list.
+
+In the example, we call the `common_elements` function with the two arrays `arr1` and `arr2`. The function returns the list of common elements, which are `[3, 4, 5]` in this case.. 
+                        Response in Persian: در اینجا یک برنامه ساده در پایتون وجود دارد که عناصر مشترک در دو آرایه را بدون استفاده از هیچ ساختار داده اضافی پیدا می کند: ```python def common_elements(arr1, arr2): common_elements = [] برای عنصر در arr1: اگر عنصر در arr2: common_elements.append(عنصر) بازگشت common_elements arr1 = [1, 2, 3, 4, 5] arr2 = [3, 4, 5, 6, 7] common_elements = common_elements(arr1, arr2) print(common_elements) ``` در این برنامه، ما یک تابع "common_elements" تعریف می کنیم که دو آرایه را به عنوان آرگومان می گیرد. در داخل تابع، از طریق آرایه اول تکرار می شویم و بررسی می کنیم که آیا هر عنصر در آرایه دوم وجود دارد یا خیر. اگر چنین است، عنصر را به لیست "common_elements" اضافه می کنیم. در نهایت، لیست "common_elements" را برمی گردانیم. در مثال، تابع "common_elements" را با دو آرایه "arr1" و "arr2" فراخوانی می کنیم. این تابع لیست عناصر مشترک را برمی گرداند که در این مورد «[3، 4، 5]» است.

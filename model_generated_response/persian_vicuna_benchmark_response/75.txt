@@ -1,0 +1,13 @@
+Instruction in English:  Compose an apology email to a customer who has encountered a delay with their order, and assure them that the issue has been resolved.
+Your response must be less than 6 sentences..
+                        Response in English: Dear [Customer],
+
+We sincerely apologize for the delay in processing your order. We understand that this may have caused inconvenience, and we appreciate your patience.
+
+Please be assured that the issue has been resolved, and your order is being processed as quickly as possible. We will keep you updated on the status of your order and ensure that it is delivered to you in a timely manner.
+
+Once again, we apologize for any inconvenience this may have caused, and thank you for your understanding.
+
+Best regards,
+[Your Company]. 
+                        Response in Persian: [مشتری] عزیز، ما صمیمانه برای تاخیر در پردازش سفارش شما عذرخواهی می کنیم. ما درک می کنیم که ممکن است این امر باعث ناراحتی شما شده باشد و از صبر شما قدردانی می کنیم. لطفاً مطمئن باشید که مشکل حل شده است و سفارش شما با حداکثر سرعت در حال پردازش است. ما شما را در جریان وضعیت سفارش خود قرار خواهیم داد و اطمینان حاصل خواهیم کرد که به موقع به شما تحویل خواهد شد. یک بار دیگر برای هر گونه ناراحتی که ممکن است ایجاد کرده باشد عذرخواهی می کنیم و از درک شما سپاسگزاریم. با احترام، [شرکت شما]

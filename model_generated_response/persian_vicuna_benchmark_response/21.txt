@@ -1,0 +1,4 @@
+Instruction in English:  How would you introduce yourself as a medieval knight at a royal feast?
+Your response must be less than 6 sentences..
+                        Response in English: "Greetings, fair lords and ladies of the court! I am Sir [insert name], a knight of the realm, and I am honored to be in your presence at this royal feast. I have traveled far and wide to serve my king and country, and I am humbled by the opportunity to share in this celebration with such esteemed company.". 
+                        Response in Persian:  "خوش آمدید، اربابان و خانم های منصفانه در دادگاه! من سر [نام را وارد کنید]، شوالیه ای از قلمرو، و مفتخرم که در حضور شما در این جشن سلطنتی هستم. من برای خدمت به پادشاه و کشورم تا دور و بر سفر کرده ام و از فرصتی که در این جشن با چنین شرکت های محترمانه ای شرکت می کنم، افتخار می کنم."

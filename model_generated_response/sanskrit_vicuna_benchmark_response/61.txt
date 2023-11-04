@@ -1,0 +1,44 @@
+Instruction in English:  Develop a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file. Your response must be less than 6 sentences..
+                        Response in English: Here is a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file:
+
+```c++
+#include <iostream>
+#include <fstream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    ifstream file;
+    string word;
+    int count = 0;
+
+    cout << "Enter the file name: ";
+    getline(cin, word);
+
+    file.open(word);
+
+    if (file.is_open())
+    {
+        while (!file.eof())
+        {
+            string line;
+            getline(file, line);
+            if (line.find(word) != string::npos)
+            {
+                count++;
+            }
+        }
+        file.close();
+        cout << "The word " << word << " appears " << count << " times in the file." << endl;
+    }
+    else
+    {
+        cout << "Unable to open the file." << endl;
+    }
+
+    return 0;
+}
+```. 
+                        Response in Sanskrit: अत्र C++ कार्यक्रमः अस्ति यः पाठसञ्चिकां पङ्क्तिं पङ्क्तिं पठति तथा च सञ्चिकायां विशिष्टशब्दस्य आवृत्तिसङ्ख्यां गणयति: ```c++ #include <iostream> #include <fstream> #include <string> नामस्थानस्य उपयोगेन std; int main() { ifstream file; string word; int count = 0; cout << "सञ्चिकानाम प्रविष्टं कुर्वन्तु: "; getline(cin, word); file.open(word); if (file.is_open()) { while (!file.eof()) { string line; getline(file, line); if (line.find(word) != string::npos) { count++; } } file.close(); cout << "सञ्चिकायां " << word << " इति शब्दः " << count << " वारं दृश्यते।" << endl; } else { cout << "सञ्चिकां उद्घाटयितुं असमर्थः अस्ति।" << endl; } return 0; } ```

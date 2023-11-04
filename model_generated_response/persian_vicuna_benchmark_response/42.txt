@@ -1,0 +1,3 @@
+Instruction in English:  How many atoms are there in a molecule of salt? Try to explain your answer. Your response must be less than 6 sentences..
+                        Response in English: A molecule of salt, also known as sodium chloride (NaCl), is made up of two atoms: one atom of sodium (Na) and one atom of chlorine (Cl). Therefore, there are a total of two atoms in a molecule of salt.. 
+                        Response in Persian:  یک دانه نمک که به نام کلرید سدیم (NaCl) نیز شناخته می شود، از دو اتم تشکیل شده است: یک اتم سدیم (Na) و یک اتم کلر (Cl). بنابراین، در یک دانه نمک در مجموع دو اتم وجود دارد.

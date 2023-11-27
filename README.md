@@ -44,6 +44,15 @@ Performance of different categories across languages can be seen in the below ta
 | writing | 8.80 | 8.95 | 8.65 | 9.30 |
 | Overall average | 8.24 | 8.31 | 8.52 | 8.30 |
 
-
+**Citation**
+Please use the below citation to cite our work.
+```
+@article{upadhayay2023taco,
+  title={TaCo: Enhancing Cross-Lingual Transfer for Low-Resource Languages in LLMs through Translation-Assisted Chain-of-Thought Processes},
+  author={Upadhayay, Bibek and Behzadan, Vahid},
+  journal={arXiv preprint arXiv:2311.10797},
+  year={2023}
+}
+```
 **License and Intended Use**
 The TaCo adapter weights are trained on top of the Guanaco-33B (timdettmers/guanaco-33b-merged) model, which is based on the LLaMA model. We used the Alpaca-52K and Dolly-15K datasets and translated them using Google Cloud Translate. We advise you to look into the licensing of Guanaco-33B and the LLaMA model, as well as the terms of usage for Google Cloud Translation, before using this model.

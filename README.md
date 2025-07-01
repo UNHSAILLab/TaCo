@@ -47,11 +47,13 @@ Performance of different categories across languages can be seen in the below ta
 **Citation**
 Please use the below citation to cite our work.
 ```
-@article{upadhayay2023taco,
-  title={TaCo: Enhancing Cross-Lingual Transfer for Low-Resource Languages in LLMs through Translation-Assisted Chain-of-Thought Processes},
-  author={Upadhayay, Bibek and Behzadan, Vahid},
-  journal={arXiv preprint arXiv:2311.10797},
-  year={2023}
+@inproceedings{
+upadhayay2024taco,
+title={TaCo: Enhancing Cross-Lingual Transfer for Low-Resource Languages in {LLM}s through Translation-Assisted Chain-of-Thought Processes},
+author={Bibek Upadhayay and Vahid Behzadan},
+booktitle={5th Workshop on practical ML for limited/low resource settings},
+year={2024},
+url={https://openreview.net/forum?id=02MLWBj8HP}
 }
 ```
 **License and Intended Use**
